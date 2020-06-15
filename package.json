@@ -1,0 +1,16 @@
+{
+  "name": "test-store",
+  "version": "1.0.0",
+  "description": "Урл магазина // todo",
+  "main": "index.js",
+  "scripts": {
+    "build-feed": "node tools/updateDate.js && xml-js feed.json --out feed.xml --compact --spaces 4"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dateformat": "^3.0.3",
+    "fs-extra": "^9.0.1",
+    "xml-js": "^1.6.11"
+  }
+}
