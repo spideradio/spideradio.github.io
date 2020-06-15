@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-06-15 17:23">
+    <shop>
+        <name>TAP testing store</name>
+        <company>TAP testing store</company>
+        <url>http://t92636qr.beget.tech</url>
+        <platform>BSM/Yandex/Market</platform>
+        <version>1.1.16</version>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+            <currency id="USD" rate="77.7325"/>
+            <currency id="EUR" rate="85.7389"/>
+            <currency id="UAH" rate="2.75213"/>
+            <currency id="BYN" rate="30.1979"/>
+        </currencies>
+        <categories>
+            <category id="1">Обувь</category>
+            <category id="2" parentId="1">Пантолеты</category>
+            <category id="3" parentId="1">Тапочки</category>
+            <category id="4" parentId="1">Туфли</category>
+            <category id="5" parentId="4">Туфли Женские</category>
+            <category id="6" parentId="4">Туфли Мужские</category>
+            <category id="7">Платья</category>
+            <category id="8">Штаны</category>
+            <category id="9">Нижнее белье</category>
+            <category id="10">Футболки</category>
+            <category id="11">Спортивная Одежда</category>
+            <category id="12">Аксессуары</category>
+            <category id="13" parentId="12">Ремни</category>
+            <category id="14" parentId="13">Ремни Женские</category>
+            <category id="15" parentId="13">Ремни Мужские</category>
+        </categories>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <offers>
+            <offer id="42" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=kbf3mmyn</url>
+                <price>1999000</price>
+                <currencyId>BYN</currencyId>
+                <categoryId>8</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=xeff8wvtj</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=nled3g8fd</picture>
+                <vendor>htxhrnq rjlzv8kpcu</vendor>
+                <model>ta vwne4m 6t74y4kos m3sqwli5</model>
+                <description>pdw3k 11ieo m8j005rtrc xb6oad 413wnz9guwn 3zx18242 25d x2i4vb13d a7k9e0zof 2i4ge9 1mqxvxsa ifu cele6v8pru b8d27pq</description>
+            </offer>
+            <offer id="62" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=dvj</url>
+                <price>1899</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>8</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=hfzua</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=tte53</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=bs0tz9o6ho</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=dy1mcn</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=hd6x91j</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=eriq</picture>
+                <vendor>pp4alf 7lne pbws3pkv4</vendor>
+                <model>8251vl8r ya k5d93hepy9 ff2f hlg1u3ah dl</model>
+                <description>wmzoblgd jw3rpq eyq u5ffqqyq aih9mc8d5a</description>
+            </offer>
+            <offer id="72" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=bbiiqe</url>
+                <price>15</price>
+                <currencyId>USD</currencyId>
+                <categoryId>8</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=ttr</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=k2unbuex5</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=a5t53dc2m</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=j86k9fx</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=dk580q</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=zdzrbwuy3y</picture>
+                <vendor>g4z9aovc2k sbh q98bpqqz 3tq837o7jcv</vendor>
+                <model>0l6asx kgow</model>
+                <description>8i58dap vrj0fg xx1 6b zfh 9aoe guo</description>
+            </offer>
+            <offer id="92" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=fsfoem</url>
+                <price>4999</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>7</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=ws25wx0676</picture>
+                <vendor>6e0qye rsl7xni q35udqm4</vendor>
+                <model>n 0wk b3xggkx9g gv5n8rvpl4 jkge 16j9kklip</model>
+                <description>w gv0uc 9e 60ix9 75oq2gwcha lkuqjv nfal5 tm7t yi5dem u2gzo leash xl r2vvj</description>
+            </offer>
+            <offer id="97" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=on</url>
+                <price>2999</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>7</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=ki</picture>
+                <vendor>w4 9uslizijj afrlcax5e</vendor>
+                <model>m4sr us78 0jn 7h k74a6g 076</model>
+                <description>sjmmd2ef mzgkjakyew dn pc m2lrt</description>
+            </offer>
+            <offer id="107" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=qpqgq28</url>
+                <price>3999</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>7</categoryId>
+                <vendor>0tkg57 d45mpu</vendor>
+                <model>exozlbu htz1j u015sidj6</model>
+                <description>gg 0n2bccq oh1zle it0hm d9ocoi 6gozhvngqn ot4oo1i r2e7mxti7ls joh z4c22to7h97 odj</description>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=kb9v7o</picture>
+            </offer>
+            <offer id="112" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=mq8kvoy</url>
+                <price>1299</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <vendor>78v6qjk ycxrb9i omo</vendor>
+                <model>tg1kmhbupd 26zl9</model>
+                <description>36725wb swrbh z5csvtk13q rk8y xuhq1lt3ill 6b4yt9 odalo oktdy2ee3 8qnk</description>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=s16y1</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=42h</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=7wryim</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=e7u</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=1csc</picture>
+            </offer>
+            <offer id="117" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=r00kjhtn8</url>
+                <price>1399</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=xt5jhkm</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=i5</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=mrefvj</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=for62m1yk</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=68wxnhzqa9</picture>
+                <vendor>bhvn qrx65dtl</vendor>
+                <model>51eki5 09z88joygq tlz 5upjhlc9 tg3d9 bapdzimb</model>
+                <description>eu2a987mb rc8kpdn 77cwnx8l 91tyei 24u6e9os vg0h2p 2uikt3r9zbk cuvf42rv jm 1dhgboh2ld</description>
+            </offer>
+            <offer id="122" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=axp6q4wub</url>
+                <price>1099</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <vendor>k1d5kb1v x0vk65yqnx 3r27pdeyuoq</vendor>
+                <model>3v1pm2uv0lx jk279</model>
+                <description>p3cee 3xsnwa3fr 47x8uwf2m3z dkm7 w6 yw5cj ytiij tn8vuyjwt v s1eqj dcosz95 v3p33vvw</description>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=ln0uaf</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=eh4b9b</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=dssq9ezjj</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=9ee5</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=adul3n</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=x</picture>
+            </offer>
+            <offer id="127" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=n1d9h3</url>
+                <price>1199</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=03d5i7j</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=2k</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=d7fp3gqbdg</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=bo4oxvah</picture>
+                <vendor>n7gpt km0wjyx4v skgd</vendor>
+                <model>unzvk0e0e azsszsirm6 n2ml3hh 2zb9729y tcbmnk</model>
+                <description>4o1ix osws kk9 dc 0urv1sb d77 bz7hk0l jbzhsr4szoq nb9uw ulrauokbo gut3rizcb2a z83xtwvfi j mh8i3pp ccp lu5x</description>
+            </offer>
+            <offer id="132" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=r</url>
+                <price>1459</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=d69witl</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=83f</picture>
+                <vendor>nv2holh0gw k2x7315uf oykkjprzug 4y0pon9m</vendor>
+                <model>wl6p x7zdddb4v vb i5eahw o5rmvgsuqe</model>
+                <description>lp zpb8mt10i6 re7xf z824k x 740w5u q4t10l ty2jxsgg nq9k nqz9ch23r8 6</description>
+            </offer>
+            <offer id="137" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=0k6vg5q</url>
+                <price>1499</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=nd</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=a8gacobpiv</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=v57338993c</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=e7</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=cy</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=u4imde</picture>
+                <vendor>2bdan</vendor>
+                <model>whtg9 c4c59eca5m gydr</model>
+                <description>mtaq bax86d7ov qlzyl 3t4y n9nasnczo 2hvw9xl2</description>
+            </offer>
+            <offer id="142" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=q</url>
+                <price>1199</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <vendor>z2q8fxtzr7g au v</vendor>
+                <model>shs7h 9mjv dqwpew g5zsozmmg at63q94cs</model>
+                <description>bu17p7j dau1 ql8a 69x28x1hgg be0mls 9ol80ty8 vni qdqeq qwi3yynzjn jxkt7o5g 8pffo</description>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=gugsamxnaw</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=t85p99xe2s</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=8qb31tyzoph</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=29</picture>
+            </offer>
+            <offer id="147" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=puzu</url>
+                <price>1559</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>9</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=knb</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=htdg6g</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=q49p13m</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=cqp84jrzcma</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=c2ieysdiq8</picture>
+                <vendor>08 mudi4flq seytfz2i9eg nnxsirj</vendor>
+                <model>mplcofcc79 1r2vtv5f c0j pbiq9vwbz 0u7ufa gb</model>
+                <description>q69 x2em 9kafhih7fdf kig5t 2bw7 juckg6e v5 yoh9y38 0ub4u1w4yd 46wsb pwfmx3 uck4rc8m 66uc y529h ej9q6h</description>
+            </offer>
+            <offer id="152" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=c0tl5f4a</url>
+                <price>799</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <vendor>7f5v0w47 r0m09 y541v5ib</vendor>
+                <model>h2 mk</model>
+                <description>ju4xcpkrrym y1i ap5n wng pxkqde r0fmomnh</description>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=gyppt0ofd8p</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=4komhrb</picture>
+            </offer>
+            <offer id="157" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=nzm4av9</url>
+                <price>749</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=nhi</picture>
+                <vendor>8ro4uu</vendor>
+                <model>tos1micqe 165l0w67ey us6eqomp x f1cq</model>
+                <description>q3slkbx4ygb 9euaq sy1bavnmr rls3ohezk re 16af8j6v5kt wza0eeet 10xqd2haqya</description>
+            </offer>
+            <offer id="162" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=5ekphc</url>
+                <price>759</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=7s8</picture>
+                <vendor>t9uln</vendor>
+                <model>84xdbg l3u2wcu51q mv69q1d 86omb ym919j4r</model>
+                <description>kwgm t7dd3gydcb ucxxc 1rk c7m gsb6c 46ir af0teamu dxuce24 en217m699vh 74aq9n 5q</description>
+            </offer>
+            <offer id="167" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=9qgje</url>
+                <price>779</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <vendor>4s3o7c stjjpp4tm 21qkc</vendor>
+                <model>pl9dvd jmo72wfzej s7or2</model>
+                <description>6r pa5i wjb8 r7n2jd39 x8i2o iastjewhee myz1 4doxh73c9m 1og i705h98h 81xpibp 8xjzjd4wl</description>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=tjnk</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=hlxs</picture>
+            </offer>
+            <offer id="172" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=v3to</url>
+                <price>849</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <vendor>2n5kwqrs sk5aja4eumk 8vx4jr</vendor>
+                <model>jck2i ufa5417wgj</model>
+                <description>raf smzjrg 6i58e7c pv4tse8cvi h14ttv9o gm</description>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=zrf</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=hi765iv04l9</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=m01xf3ml8</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=tfmpfq2f</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=vz7a5c7a</picture>
+            </offer>
+            <offer id="177" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=7fcew</url>
+                <price>2330</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=nkd</picture>
+                <vendor>c18 86a5j3he9 o3mwzi</vendor>
+                <model>bc 38qi4ww xdbd8ng 7gzvq3n p327y4a5dr me6zu68h</model>
+                <description>54ig5 relc9g572n gtrs xv8q q9egaiw gtvpq8f qnr52 qbd dsl9hbsj 1498w75 rr4 64ai9n0b dwko 21qhwj844 123un</description>
+            </offer>
+            <offer id="182" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=8vmlz8mypg</url>
+                <price>2499</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+                <vendor>1m ecoa3p9 f1swuu t8</vendor>
+                <model>wnja v0se0lx4r 9eh</model>
+                <description>4c1dixr4lb 8ev8si2h 383aab2vf 9z6o6v1j 909ms orp68</description>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=1b</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=ahhgf</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=dcs2l</picture>
+            </offer>
+            <offer id="187" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=uwoug</url>
+                <price>2530</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+                <vendor>0o4 wn9wc9mf</vendor>
+                <model>u1fcsyazsv 82d8g0zv38q wgxxjhxd gk3</model>
+                <description>jsr0ut qzhysovb o1loyj7n mg1d8 3rl666t7c yg6e ahchmnst p88d8</description>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=nm155c</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=nm</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=w64k236</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=pc35zxxgibi</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=ugw1g</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=y63isoo5xo</picture>
+            </offer>
+            <offer id="192" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=ldlj9d</url>
+                <price>2570</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=79</picture>
+                <vendor>xc</vendor>
+                <model>dro 4d0yedytxd h1l yg p4</model>
+                <description>p9s8 hr 82nm s3isdw 2nzaxg ld17 5k2c1u x2b70viv6kh m21 6x9aj4zkxy7 m7 re zxd 6ecf4yzv4yh vjbbmvw19 gtbuw</description>
+            </offer>
+            <offer id="197" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=e4a2f</url>
+                <price>2630</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=thm5ra</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=0xii4ps4z</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=7bvo</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=y26detw92</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=i8ppoc7</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=wql91ou</picture>
+                <vendor>wj2bwuj51dj atv4ixm90f</vendor>
+                <model>ifh0ap28q e7v awhd5 np</model>
+                <description>uhfdi 6c0nnq707 bm9qk tq7ijn iz0nsjk 53e9u8 6e 6492rowu icbsdc r4tgln oild9 nq</description>
+            </offer>
+            <offer id="202" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=oeu3va4</url>
+                <price>2699</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+                <vendor>0bgvy17x56r 66gc 52mrggruy</vendor>
+                <model>bxlm 63hukn6q zhpe8a md ypxh4cuso</model>
+                <description>x3vzsiev4 28i c1kn i4o qyx2hdagv ff8ax1lpj j5k9kvddqfa rsf c2lqaf hmjsp</description>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=bx1otq</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=6pmt5e</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=h9ip7svm</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=f0v8h5o1h</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=qcyo7e8</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=is3m</picture>
+            </offer>
+            <offer id="207" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=o</url>
+                <price>1199</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=c</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=tm</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=nyzag</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=yrciv</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=gf6ymd2rzn</picture>
+                <vendor>1yp11g7xum4 stw8xyu2 1</vendor>
+                <model>t9l if eye8ogb uh11vbr hc3r awfn0qk3ik6</model>
+                <description>y7 i90q19ytazg uum9d6ld 2fccft5k t7sap z yl30p et7i6rnvxm at4cag</description>
+            </offer>
+            <offer id="212" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=3cr6</url>
+                <price>18</price>
+                <currencyId>EUR</currencyId>
+                <categoryId>3</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=vcm5</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=w4h0mq</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=ux1a1m530r</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=7</picture>
+                <vendor>jlh qa26ef</vendor>
+                <model>drgtok xsyifxs20mh ct56</model>
+                <description>08 20tykg4w cplbn frn13x 9z0k1ea9d jpaaz1n j4mrzcf 8ygln5 t2gwp npxq 7en3 l1vp65u</description>
+            </offer>
+            <offer id="217" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=xmgyo2yz3dl</url>
+                <price>1999</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>6</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=3</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=q7s1rwf</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=n1</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=8uit3da</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=coe</picture>
+                <vendor>3b3kf</vendor>
+                <model>91fp7jmbp ys58sqb5vb q cs6glaiki0w eb</model>
+                <description>fq f2ky4y6 qe hnykq vv9pwh5w 5qyqd8bojw l5yqli 8h uk08d5vnxj 9eorbw tg3wuw6qx ldl2dq qt68lfcl 2nki gf118ebgb</description>
+            </offer>
+            <offer id="222" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=h91z2a44l</url>
+                <price>2999</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <vendor>d3omrexwb</vendor>
+                <model>rxd a1g89syw9v lapiivqh0b 2pf8flt</model>
+                <description>2a68vb5ru vsq3m qj1ggvwg guxw7m8 2zl p2v v1zvf36 uvb1iv2k6hl rc ysp97gmh f95mae3s zk4vjv6ng bwygnfbzir jsyjr49k odpa9fuy5x m10e</description>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=in</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=tvjvf3vkmk</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=dwo</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=y4xk</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=a66ij4mskx</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=r9azyx1h</picture>
+            </offer>
+            <offer id="227" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=8oh0f</url>
+                <price>899</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=lxkvf</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=61xo</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=sucud</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=ne5lw9</picture>
+                <vendor>5k1ph 51620k bza3sak7 lgxp</vendor>
+                <model>gfdr32 cd 7ukcrt w9d4r3sx4 bc 2m</model>
+                <description>3raig 6mcqo 9x4o9 9v74v0f8s 4cm dxzah yq2avdb enynq0w79 zmuv0t m lmi7ma 7coj06wpbkk 1odc38yrqnk</description>
+            </offer>
+            <offer id="232" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=bfreee6</url>
+                <price>2499</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <vendor>oy95 kti</vendor>
+                <model>ojr1q ml0p 2yvc9uel63 wzw 8e</model>
+                <description>7f9be cmpjze7q eyguo n41zg8 33xmyjf2an b4f6b v2trubrsbg ehn 22e p ndhha c8qwyu7cj2 mw1h7r cj</description>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=ebho7na9jkl</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=j6s4m</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=lcvq9d</picture>
+            </offer>
+            <offer id="237" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=g1br9x5ke2v</url>
+                <price>2799</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>5</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=sa</picture>
+                <vendor>t7317i bbel vim7lqci</vendor>
+                <model>iaj g98n ez7z7a</model>
+                <description>16e0jth cwnpbw45es iqlksyjw69 8j3lv6u40dh jw3mdcq9b2r vky5a 0y23n jh mbzsxyh63u h9s r80vdj1sudo hu</description>
+            </offer>
+            <offer id="262" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=noqgux3wt</url>
+                <price>390</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>14</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=pwi</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=7qw2a4v</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=o</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=wxdr443</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=f7xr73itf</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=v6ph</picture>
+                <vendor>4hg4yx8 mt1m4 8uumd5hl1i yc</vendor>
+                <model>db mlhf43ku2sh u97 v4tci ahdaq1m7abi</model>
+                <description>yt8i 20uc f9g4ulgt xeds7 t9 4xzc6zs 4sqmgfh1a sj qcb6dgif1 uj dj a4xuar74 7fpf8</description>
+            </offer>
+            <offer id="292" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=ea5tjjg6uk</url>
+                <price>1190</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>15</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=kz9q1xda</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=44</picture>
+                <vendor>c23c4m 2c</vendor>
+                <model>8f9gswt2vtl 58p3 9esd7xy3o nh6md tqo2ce</model>
+                <description>ikkl0819 hjnb7s nwl7l 0lko9odndj bvsiah 7b4s6e 5ttxqny7rq knd</description>
+            </offer>
+            <offer id="297" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=32y</url>
+                <price>730</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>14</categoryId>
+                <vendor>lr041ttc6 x e36ymbn c9sn5pq</vendor>
+                <model>3d95hy0xb bocst0m3c b6fym7</model>
+                <description>26ppje93m xbuvzk8mg8b j2jxeozry yuakhoj awhl7 7 v nsm tz5lp zzcgxuof pok09 hd 3e5sfsso 8j</description>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=it</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=8o</picture>
+            </offer>
+            <offer id="302" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=j18</url>
+                <price>799</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>15</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=utk</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=ni77ips8</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=lhvswwrq8</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=cwt9ye76r2m</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=0kqfcq7</picture>
+                <vendor>xukh</vendor>
+                <model>op elj 31g</model>
+                <description>5 xaqm8d dh ux6jjih k0y dn98twv g9l u5 3pbtz3jg hjbl2byk6 4c8rnt00z kmm zlj52ofc9</description>
+            </offer>
+            <offer id="307" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=d357fk</url>
+                <price>750</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>14</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=fc9t7x</picture>
+                <vendor>fb8p col</vendor>
+                <model>xfw6cr mqaorhciq6f 9u8fgm soczfat</model>
+                <description>a1t039w4hb5 59hloxul9u4 cued5qlkncb 0f4go xe hko icj7hijb ua</description>
+            </offer>
+            <offer id="312" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=pj</url>
+                <price>644</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>15</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=aq</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=bf36kdv4</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=1dl</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=x5qf</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=z62ku</picture>
+                <vendor>xqkujxqix 1btfzua6a re77</vendor>
+                <model>ic8d4rlf2 8</model>
+                <description>uikfhfohg ltllj8od mmhzf rloum88cys l8ddf1g1u 9um66qph2j 94lbg1xta bvufuh78w w8jaakg07 or2 lcfruj f51guknp s2wde 23gqubc39azj f8</description>
+            </offer>
+            <offer id="73" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=8j6f1a5yt</url>
+                <price>2199</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>8</categoryId>
+                <vendor>tm n7em21j4h r3vr47uc9</vendor>
+                <model>w3ealf 3gsiryl1c</model>
+                <description>qf1moh2ud bh79b9 fm p71hvn vnp11dkjcuo w4ck4bi6tz8 u1nzhco 8jbah9w2 w4vsgrf67o fyxags</description>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=3sw</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=52pguve</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=fld</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=32g12co</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=2j</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=cqgts</picture>
+            </offer>
+            <offer id="213" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=dpgj</url>
+                <price>90</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>3</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=ajbwm3ok</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=acmlk6aaq</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=ci</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=4alaoj9</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=a7h0clbc</picture>
+                <vendor>zb9l5cadr kan06nbcff</vendor>
+                <model>rl8fo5gc5e 8 5f6q3gmi3ob 3q41eba3 hlnotmtt4i 1adn</model>
+                <description>a5kzeai86s5 ptn0e2g4ld jj6ytqf7ckr 2hau du rooc lr uvgksmvmf5 z0o623 o6j9k0hkxa a7d h 8qlpq kexzt0p84w p</description>
+            </offer>
+            <offer id="214" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=1qwg</url>
+                <price>899</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=uzq</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=e9s</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=2av87gh</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=cd5sq</picture>
+                <vendor>0ztl0lcxn iz6u5zqd7bj tqu s9ud</vendor>
+                <model>tx2fnuu v1sztq5vg</model>
+                <description>3m 8u2im7un4s boq9r16 5ce9nh ntd0mlrklo d6yvzv kb6rtn 0zm4wcvgf svoc</description>
+            </offer>
+            <offer id="43" type="vendor.model">
+                <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=xrmx7ey</url>
+                <price>1999</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>8</categoryId>
+                <vendor>7pnim8hvk n5jj 687</vendor>
+                <model>02lhivphbzyb g5158 i1pab8tl pw2c7</model>
+                <description>vk52xhx gjhp0idji2 fjnyt8 t865k 1evp9e</description>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=n0eyitynhzc</picture>
+                <picture>https://source.unsplash.com/random/300x600&amp;rnd=3w13pxo43</picture>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>

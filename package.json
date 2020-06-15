@@ -4,7 +4,7 @@
   "description": "Урл магазина // todo",
   "main": "index.js",
   "scripts": {
-    "build-feed": "node tools/updateDate.js && xml-js feed.json --out feed.xml --compact --spaces 4"
+    "build-feed": "node tools/updateDate.js && xml-js feed.json --out docs/feed.xml --compact --spaces 4"
   },
   "author": "",
   "license": "ISC",
