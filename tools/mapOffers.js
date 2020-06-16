@@ -22,17 +22,17 @@ updateJsonFeed(feed => {
     const offers = feed.yml_catalog.shop.offers.offer;
 
     offers.forEach(offer => {
-        const picture = new Array(getRandomInt(0, 5))
-            .fill(wrapValue(`https://spideradio.github.io/img/`))
-            .map(value => wrapValue(value._text + `${getRandomInt(1, 17)}.jpeg`));
+        // const picture = new Array(getRandomInt(0, 5))
+        //     .fill(wrapValue(`https://spideradio.github.io/img/`))
+        //     .map(value => wrapValue(value._text + `${getRandomInt(1, 17)}.jpeg`));
 
-        if (picture.length) {
-            offer.picture = picture.length > 1 ? picture : picture[0];
-        } else {
-            delete offer.picture;
-        }
+        // if (picture.length) {
+        //     offer.picture = picture.length > 1 ? picture : picture[0];
+        // } else {
+        //     delete offer.picture;
+        // }
 
-        // offer.url = wrapValue(`http://t92636qr.beget.tech/index.php?route=product/search&search=${getRandomString()}`);
+        offer.url = wrapValue(`https://spideradio.github.io?rnd=${getRandomString()}`);
 
         // offer.vendor = wrapValue(lorem.generateWords(getRandomInt(1, 3)));
         // offer.model = wrapValue(lorem.generateWords(getRandomInt(2, 4)));
