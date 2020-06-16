@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2020-06-16 11:35">
+<yml_catalog date="2020-06-16 12:39">
     <shop>
         <name>TAP testing store</name>
         <company>TAP testing store</company>
@@ -38,12 +38,7 @@
                 <price>1999000</price>
                 <currencyId>BYN</currencyId>
                 <categoryId>8</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/10.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/11.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/16.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/14.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/2.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/10.jpeg</picture>
+                <picture>https://spideradio.github.io/img/12.jpeg</picture>
                 <vendor>esse</vendor>
                 <model>sunt nulla</model>
                 <description>Sunt occaecat enim proident nostrud ad voluptate mollit excepteur dolore id pariatur irure id. Consequat qui ex ut nostrud officia. Voluptate deserunt est nostrud laboris excepteur cupidatat deserunt ut magna occaecat. Sit reprehenderit incididunt ipsum culpa. Officia incididunt magna amet amet exercitation. Nisi amet minim excepteur.</description>
@@ -65,14 +60,18 @@
                 <vendor>veniam duis</vendor>
                 <model>minim eiusmod velit</model>
                 <description>Enim irure labore officia proident cupidatat eu eiusmod. Adipisicing ea do duis in excepteur consequat. Eu ipsum laboris reprehenderit incididunt quis sit veniam incididunt esse non enim ex. Anim aliquip sunt cupidatat tempor dolore voluptate irure in culpa nulla. Enim mollit velit tempor qui dolor. Exercitation consequat elit quis excepteur fugiat. Velit ea reprehenderit dolor tempor irure ullamco est incididunt. Sunt irure sint eiusmod ipsum deserunt ad.</description>
+                <picture>https://spideradio.github.io/img/13.jpeg</picture>
+                <picture>https://spideradio.github.io/img/9.jpeg</picture>
+                <picture>https://spideradio.github.io/img/17.jpeg</picture>
             </offer>
             <offer id="92" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=fsfoem</url>
                 <price>4999</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>7</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/3.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/13.jpeg</picture>
+                <picture>https://spideradio.github.io/img/5.jpeg</picture>
+                <picture>https://spideradio.github.io/img/5.jpeg</picture>
+                <picture>https://spideradio.github.io/img/8.jpeg</picture>
                 <vendor>aute reprehenderit deserunt</vendor>
                 <model>deserunt Lorem cillum</model>
                 <description>Amet cillum ea aute non laborum minim culpa culpa ex nisi aliqua qui. Incididunt fugiat ullamco ex. Excepteur velit sint sunt eu sit eu officia id nostrud magna nisi nostrud anim. Anim laborum reprehenderit ex pariatur eiusmod culpa et amet enim cupidatat mollit dolore reprehenderit veniam consectetur.</description>
@@ -82,9 +81,12 @@
                 <price>2999</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>7</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/18.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/8.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/10.jpeg</picture>
+                <picture>https://spideradio.github.io/img/9.jpeg</picture>
+                <picture>https://spideradio.github.io/img/12.jpeg</picture>
+                <picture>https://spideradio.github.io/img/14.jpeg</picture>
+                <picture>https://spideradio.github.io/img/5.jpeg</picture>
+                <picture>https://spideradio.github.io/img/2.jpeg</picture>
+                <picture>https://spideradio.github.io/img/13.jpeg</picture>
                 <vendor>magna laborum</vendor>
                 <model>cupidatat magna</model>
                 <description>Nisi cillum id veniam amet deserunt non consectetur dolor ullamco excepteur proident esse ex. Nulla dolore culpa sit cupidatat eu quis velit quis ullamco adipisicing aliqua. Duis ex nisi veniam irure consequat dolore ad cillum. Proident do velit minim id sint.</description>
@@ -97,6 +99,9 @@
                 <vendor>irure</vendor>
                 <model>duis laborum esse mollit</model>
                 <description>Dolore eiusmod pariatur elit quis dolor occaecat. Nostrud consequat ut Lorem commodo laboris occaecat culpa quis consectetur ad sit sit duis. Lorem reprehenderit quis cupidatat qui commodo consequat consectetur magna qui minim et. Ad do tempor aute excepteur occaecat laboris fugiat incididunt laboris. Ut duis consectetur consequat. Sit ad cillum laboris magna reprehenderit qui qui sunt aute anim occaecat. Ex consectetur laborum irure cillum exercitation tempor id nostrud dolor tempor culpa consectetur eiusmod quis voluptate. Elit fugiat occaecat veniam fugiat occaecat sint qui officia magna elit ad.</description>
+                <picture>https://spideradio.github.io/img/12.jpeg</picture>
+                <picture>https://spideradio.github.io/img/16.jpeg</picture>
+                <picture>https://spideradio.github.io/img/15.jpeg</picture>
             </offer>
             <offer id="112" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=mq8kvoy</url>
@@ -106,20 +111,19 @@
                 <vendor>non fugiat</vendor>
                 <model>cillum duis</model>
                 <description>Eiusmod ut elit velit et pariatur est id consectetur cillum. Sint eiusmod enim eiusmod culpa est eiusmod eu sint commodo sint adipisicing consequat deserunt. Non voluptate cillum anim laborum amet nostrud velit incididunt laboris elit non reprehenderit incididunt. Sit ea do velit consequat sunt consectetur. Voluptate culpa est laborum sit sint aliqua quis velit Lorem consequat exercitation tempor veniam. Exercitation sunt veniam aute adipisicing laborum nostrud sint est Lorem nostrud duis eiusmod. Ut consectetur ullamco consectetur occaecat enim quis laborum ea fugiat mollit nulla tempor sunt amet.</description>
-                <picture>https://spideradio.github.io/test-yml/img/4.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/12.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/8.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/3.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/7.jpeg</picture>
+                <picture>https://spideradio.github.io/img/13.jpeg</picture>
+                <picture>https://spideradio.github.io/img/16.jpeg</picture>
+                <picture>https://spideradio.github.io/img/5.jpeg</picture>
+                <picture>https://spideradio.github.io/img/17.jpeg</picture>
+                <picture>https://spideradio.github.io/img/4.jpeg</picture>
             </offer>
             <offer id="117" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=r00kjhtn8</url>
                 <price>1399</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>9</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/18.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/13.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/7.jpeg</picture>
+                <picture>https://spideradio.github.io/img/17.jpeg</picture>
+                <picture>https://spideradio.github.io/img/13.jpeg</picture>
                 <vendor>velit minim reprehenderit</vendor>
                 <model>laboris nostrud esse</model>
                 <description>Exercitation excepteur laboris cillum sint est cillum Lorem. Commodo esse culpa voluptate. Adipisicing esse do incididunt irure culpa consectetur excepteur. Reprehenderit ullamco esse consequat anim adipisicing quis et esse incididunt occaecat eiusmod cillum aliquip. Lorem anim eiusmod dolore irure laboris exercitation pariatur quis ad nostrud.</description>
@@ -132,15 +136,19 @@
                 <vendor>irure</vendor>
                 <model>eiusmod elit laboris commodo</model>
                 <description>Exercitation sunt esse ullamco amet mollit aute sit cillum adipisicing adipisicing pariatur proident ut qui. Consequat officia labore pariatur est ad magna quis.</description>
+                <picture>https://spideradio.github.io/img/17.jpeg</picture>
+                <picture>https://spideradio.github.io/img/8.jpeg</picture>
+                <picture>https://spideradio.github.io/img/4.jpeg</picture>
+                <picture>https://spideradio.github.io/img/1.jpeg</picture>
+                <picture>https://spideradio.github.io/img/18.jpeg</picture>
+                <picture>https://spideradio.github.io/img/12.jpeg</picture>
             </offer>
             <offer id="127" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=n1d9h3</url>
                 <price>1199</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>9</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/2.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/16.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/3.jpeg</picture>
+                <picture>https://spideradio.github.io/img/16.jpeg</picture>
                 <vendor>cillum laboris</vendor>
                 <model>consectetur reprehenderit pariatur deserunt</model>
                 <description>Cupidatat ipsum qui fugiat. Aute nostrud eu velit ad culpa ut sunt occaecat quis. Deserunt incididunt eu ullamco nisi magna enim nulla qui sit minim. Lorem id sunt eu ut adipisicing. Et deserunt anim mollit in nisi non pariatur amet Lorem incididunt excepteur non quis laborum. Dolor mollit ipsum id labore consequat magna ad amet elit.</description>
@@ -150,7 +158,7 @@
                 <price>1459</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>9</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/15.jpeg</picture>
+                <picture>https://spideradio.github.io/img/3.jpeg</picture>
                 <vendor>id nostrud</vendor>
                 <model>aliqua cupidatat</model>
                 <description>Aliqua commodo ut sunt. Nisi minim nostrud ex elit veniam enim ut ipsum dolore. Pariatur esse sit deserunt voluptate irure sit mollit culpa nisi exercitation fugiat voluptate irure ipsum. Magna ea officia ut reprehenderit ut magna aute dolore. Ipsum fugiat officia officia. Cupidatat cillum id culpa eiusmod officia sit Lorem qui.</description>
@@ -163,6 +171,12 @@
                 <vendor>esse</vendor>
                 <model>officia commodo ut laboris</model>
                 <description>Minim ut laboris adipisicing id ex anim consectetur. Eiusmod laborum occaecat nostrud ex. Commodo laboris et anim ut tempor cillum nulla reprehenderit ipsum esse. Irure aute adipisicing ea velit velit elit excepteur cupidatat esse aliquip minim ut reprehenderit nostrud sit. Sint excepteur duis et occaecat in ut duis voluptate mollit proident. Cupidatat elit sint qui. Qui cillum non id incididunt nostrud commodo.</description>
+                <picture>https://spideradio.github.io/img/10.jpeg</picture>
+                <picture>https://spideradio.github.io/img/8.jpeg</picture>
+                <picture>https://spideradio.github.io/img/8.jpeg</picture>
+                <picture>https://spideradio.github.io/img/2.jpeg</picture>
+                <picture>https://spideradio.github.io/img/4.jpeg</picture>
+                <picture>https://spideradio.github.io/img/4.jpeg</picture>
             </offer>
             <offer id="142" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=q</url>
@@ -172,22 +186,14 @@
                 <vendor>sunt</vendor>
                 <model>excepteur occaecat duis</model>
                 <description>Laboris adipisicing laboris pariatur consectetur incididunt cupidatat exercitation esse dolor culpa ea consectetur. Nulla culpa nulla dolore. Non laboris cillum commodo nulla ea magna non dolor voluptate anim occaecat cillum elit consectetur. Dolore dolore culpa Lorem incididunt. Aliqua minim in culpa dolore nisi tempor incididunt eu consequat tempor. Proident aliqua esse nostrud velit.</description>
-                <picture>https://spideradio.github.io/test-yml/img/2.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/17.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/15.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/16.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/14.jpeg</picture>
+                <picture>https://spideradio.github.io/img/4.jpeg</picture>
+                <picture>https://spideradio.github.io/img/15.jpeg</picture>
             </offer>
             <offer id="147" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=puzu</url>
                 <price>1559</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>9</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/8.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/8.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/6.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/15.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/2.jpeg</picture>
                 <vendor>Lorem</vendor>
                 <model>incididunt fugiat id pariatur</model>
                 <description>Excepteur anim velit minim proident dolore mollit do elit officia exercitation labore dolore consectetur. Duis laboris ex incididunt nostrud nulla nulla deserunt culpa eiusmod excepteur. Sit minim eiusmod duis et qui velit aliquip eu consectetur. Eu commodo esse id proident est commodo exercitation esse voluptate quis.</description>
@@ -200,15 +206,16 @@
                 <vendor>tempor eu amet anim</vendor>
                 <model>id ad qui exercitation mollit</model>
                 <description>Voluptate deserunt occaecat id tempor. Elit in consectetur cupidatat eiusmod ex occaecat anim aliquip sit id dolor adipisicing.</description>
-                <picture>https://spideradio.github.io/test-yml/img/3.jpeg</picture>
+                <picture>https://spideradio.github.io/img/14.jpeg</picture>
             </offer>
             <offer id="157" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=nzm4av9</url>
                 <price>749</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>10</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/4.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/10.jpeg</picture>
+                <picture>https://spideradio.github.io/img/2.jpeg</picture>
+                <picture>https://spideradio.github.io/img/15.jpeg</picture>
+                <picture>https://spideradio.github.io/img/2.jpeg</picture>
                 <vendor>nostrud</vendor>
                 <model>enim consectetur elit</model>
                 <description>Minim esse id veniam anim quis id eu adipisicing aliquip duis. In mollit aliquip velit irure ullamco cupidatat consequat sint ullamco qui deserunt enim nisi. Do nisi minim non deserunt proident labore exercitation. Dolor ullamco tempor et nisi deserunt eiusmod consectetur officia nostrud. Fugiat sint et duis eiusmod in laboris officia tempor cillum nulla. Velit eu fugiat consequat ea anim. Nulla nisi sit ex consectetur commodo dolor non laborum enim deserunt. Esse et occaecat deserunt dolore minim dolore sunt excepteur ex nulla culpa duis irure consequat.</description>
@@ -221,12 +228,7 @@
                 <vendor>enim commodo amet</vendor>
                 <model>cupidatat aliqua</model>
                 <description>Labore adipisicing minim elit aliqua. Minim mollit consequat pariatur ad cillum aliquip occaecat. Magna laboris quis occaecat culpa. Velit non veniam incididunt laboris Lorem sint occaecat laboris sunt. Ea minim consequat magna sit exercitation velit tempor ut. Velit proident ea laborum. Id et ut eiusmod nulla est ipsum excepteur id do ad laborum nostrud quis eu.</description>
-                <picture>https://spideradio.github.io/test-yml/img/15.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/14.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/10.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/17.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/7.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/16.jpeg</picture>
+                <picture>https://spideradio.github.io/img/13.jpeg</picture>
             </offer>
             <offer id="167" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=9qgje</url>
@@ -236,8 +238,7 @@
                 <vendor>fugiat anim ea</vendor>
                 <model>ipsum anim aliquip ut</model>
                 <description>Pariatur elit ad ut esse nostrud nostrud veniam Lorem sint ad cillum non voluptate Lorem irure. Incididunt ea anim anim anim mollit enim aliqua. Lorem duis occaecat commodo enim voluptate laboris Lorem commodo aliqua id fugiat duis. Aliqua sit sunt eiusmod voluptate id proident tempor commodo voluptate laboris id officia nostrud id laborum. Ea id non commodo aliquip reprehenderit amet ullamco aute mollit dolore deserunt do esse ex nisi. Laboris elit qui et do cillum nisi tempor reprehenderit. Laboris commodo esse duis sunt aliqua est duis elit eiusmod qui culpa anim.</description>
-                <picture>https://spideradio.github.io/test-yml/img/12.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/10.jpeg</picture>
+                <picture>https://spideradio.github.io/img/1.jpeg</picture>
             </offer>
             <offer id="172" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=v3to</url>
@@ -247,16 +248,14 @@
                 <vendor>labore ullamco Lorem</vendor>
                 <model>enim cillum</model>
                 <description>Magna nisi quis elit id et duis dolor. Culpa dolore duis ullamco est eiusmod aute magna officia et ex officia eiusmod exercitation. Pariatur laboris velit mollit esse nostrud. Deserunt anim ut et excepteur laboris amet enim in qui qui minim. Eu ullamco aliquip amet laboris sint reprehenderit incididunt adipisicing sit Lorem minim cillum proident deserunt. Duis laboris officia veniam veniam eiusmod dolore elit aliquip est id aliqua qui. Quis aliqua consequat mollit officia est sunt est eiusmod velit magna qui nostrud.</description>
-                <picture>https://spideradio.github.io/test-yml/img/6.jpeg</picture>
+                <picture>https://spideradio.github.io/img/7.jpeg</picture>
+                <picture>https://spideradio.github.io/img/12.jpeg</picture>
             </offer>
             <offer id="177" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=7fcew</url>
                 <price>2330</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>11</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/13.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/8.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/11.jpeg</picture>
                 <vendor>amet ex deserunt proident</vendor>
                 <model>anim pariatur sunt non</model>
                 <description>Pariatur sunt culpa ea incididunt ea exercitation Lorem laborum incididunt. Sit voluptate nostrud fugiat exercitation amet consectetur culpa labore enim sit do adipisicing ea qui.</description>
@@ -269,9 +268,11 @@
                 <vendor>do</vendor>
                 <model>nostrud ea labore</model>
                 <description>Enim exercitation exercitation occaecat nisi. Ipsum eu aliquip ullamco dolore tempor Lorem.</description>
-                <picture>https://spideradio.github.io/test-yml/img/17.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/5.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/14.jpeg</picture>
+                <picture>https://spideradio.github.io/img/15.jpeg</picture>
+                <picture>https://spideradio.github.io/img/5.jpeg</picture>
+                <picture>https://spideradio.github.io/img/4.jpeg</picture>
+                <picture>https://spideradio.github.io/img/10.jpeg</picture>
+                <picture>https://spideradio.github.io/img/1.jpeg</picture>
             </offer>
             <offer id="187" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=uwoug</url>
@@ -281,18 +282,17 @@
                 <vendor>cillum proident do</vendor>
                 <model>cillum ad aliqua</model>
                 <description>Qui eiusmod cupidatat quis ut reprehenderit aliquip est cillum. Dolor mollit adipisicing incididunt in commodo incididunt reprehenderit.</description>
-                <picture>https://spideradio.github.io/test-yml/img/12.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/18.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/16.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/10.jpeg</picture>
+                <picture>https://spideradio.github.io/img/14.jpeg</picture>
+                <picture>https://spideradio.github.io/img/6.jpeg</picture>
+                <picture>https://spideradio.github.io/img/5.jpeg</picture>
+                <picture>https://spideradio.github.io/img/17.jpeg</picture>
+                <picture>https://spideradio.github.io/img/3.jpeg</picture>
             </offer>
             <offer id="192" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=ldlj9d</url>
                 <price>2570</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>11</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/17.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/5.jpeg</picture>
                 <vendor>deserunt laboris fugiat amet</vendor>
                 <model>aliquip anim mollit velit</model>
                 <description>Ea ullamco aliqua laborum commodo eu. Proident tempor occaecat deserunt id sint ipsum. Dolor sit do magna consectetur. Ullamco laboris aute est.</description>
@@ -302,7 +302,9 @@
                 <price>2630</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>11</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/11.jpeg</picture>
+                <picture>https://spideradio.github.io/img/17.jpeg</picture>
+                <picture>https://spideradio.github.io/img/1.jpeg</picture>
+                <picture>https://spideradio.github.io/img/12.jpeg</picture>
                 <vendor>aute ea fugiat eu</vendor>
                 <model>quis aliqua</model>
                 <description>Aliquip aliquip non aute. Lorem quis ex sint ea laborum Lorem sint non qui reprehenderit voluptate. Aliqua ullamco labore cillum fugiat dolore adipisicing est magna est consectetur. Elit duis ut sint. Occaecat pariatur sit nulla culpa magna excepteur ad ullamco anim labore dolore magna sunt. Deserunt ipsum enim in non. Ipsum ad tempor adipisicing cillum. Non elit sint nulla minim qui consectetur nostrud aliqua ea occaecat.</description>
@@ -315,20 +317,14 @@
                 <vendor>reprehenderit sit labore</vendor>
                 <model>nulla nisi anim voluptate duis</model>
                 <description>Esse irure dolore proident nostrud officia anim laboris amet duis reprehenderit ut proident ullamco pariatur. Culpa duis fugiat ea deserunt ad ad veniam commodo. Esse id aute officia consequat occaecat excepteur in proident esse laborum. Dolor quis voluptate elit enim velit eu ad. Esse irure do non. Incididunt cillum anim enim officia irure commodo deserunt ipsum culpa do aute consectetur velit laboris. Laborum occaecat cupidatat Lorem nisi incididunt ipsum laboris occaecat velit do eiusmod.</description>
-                <picture>https://spideradio.github.io/test-yml/img/15.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/3.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/16.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/7.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/7.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/9.jpeg</picture>
             </offer>
             <offer id="207" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=o</url>
                 <price>1199</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/11.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/15.jpeg</picture>
+                <picture>https://spideradio.github.io/img/13.jpeg</picture>
+                <picture>https://spideradio.github.io/img/14.jpeg</picture>
                 <vendor>dolore</vendor>
                 <model>magna cillum anim ex</model>
                 <description>Proident pariatur sint non. In reprehenderit sunt exercitation non. Lorem tempor ut veniam irure. Ullamco elit et excepteur magna. Minim consectetur qui et nostrud voluptate dolore eiusmod aliqua adipisicing. Lorem ad proident enim minim esse eiusmod qui nulla consectetur. Nulla cupidatat sit magna adipisicing.</description>
@@ -338,11 +334,12 @@
                 <price>18</price>
                 <currencyId>EUR</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/2.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/8.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/9.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/6.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/4.jpeg</picture>
+                <picture>https://spideradio.github.io/img/16.jpeg</picture>
+                <picture>https://spideradio.github.io/img/6.jpeg</picture>
+                <picture>https://spideradio.github.io/img/10.jpeg</picture>
+                <picture>https://spideradio.github.io/img/13.jpeg</picture>
+                <picture>https://spideradio.github.io/img/8.jpeg</picture>
+                <picture>https://spideradio.github.io/img/17.jpeg</picture>
                 <vendor>in aute tempor</vendor>
                 <model>elit occaecat sint consequat amet</model>
                 <description>Duis in labore pariatur sit eiusmod ullamco culpa dolore eiusmod occaecat sint enim eiusmod culpa. Adipisicing sit veniam anim irure velit ut nisi minim amet occaecat mollit. Excepteur pariatur anim sunt aliqua dolor exercitation anim adipisicing dolore ad amet. Ea fugiat sunt sit. Laborum mollit commodo dolor officia velit eu amet anim esse sunt esse ut proident reprehenderit magna. Id cupidatat excepteur anim ut.</description>
@@ -352,9 +349,7 @@
                 <price>1999</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>6</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/2.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/2.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/8.jpeg</picture>
+                <picture>https://spideradio.github.io/img/15.jpeg</picture>
                 <vendor>est aliqua</vendor>
                 <model>dolore commodo</model>
                 <description>Et dolor dolore fugiat minim elit aute sint Lorem ad proident amet culpa proident. Labore culpa sunt ex est amet veniam velit nostrud proident sunt et cillum ut consequat irure. Irure laboris et officia ex magna aliqua magna labore consectetur magna excepteur id dolore. Officia aute sunt occaecat nisi sit Lorem exercitation commodo consectetur.</description>
@@ -367,10 +362,10 @@
                 <vendor>ex consectetur consequat excepteur</vendor>
                 <model>amet qui</model>
                 <description>Ullamco cupidatat incididunt sint aliquip ipsum sint culpa aliquip culpa cillum elit sit. Nostrud irure ad ut sunt quis id pariatur anim. Laboris consectetur ullamco amet occaecat laborum cillum nulla sint enim dolore do et enim non. Elit commodo irure consequat irure aute occaecat sit culpa elit adipisicing labore officia. Dolor et aliqua anim est aliquip elit est ad eiusmod. Irure laborum aliqua est aliqua ad sint cillum sit amet fugiat consectetur nisi anim quis. Ipsum nisi qui mollit aliqua aliqua magna id excepteur Lorem occaecat proident culpa qui.</description>
-                <picture>https://spideradio.github.io/test-yml/img/13.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/1.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/8.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/14.jpeg</picture>
+                <picture>https://spideradio.github.io/img/16.jpeg</picture>
+                <picture>https://spideradio.github.io/img/14.jpeg</picture>
+                <picture>https://spideradio.github.io/img/1.jpeg</picture>
+                <picture>https://spideradio.github.io/img/5.jpeg</picture>
             </offer>
             <offer id="227" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=8oh0f</url>
@@ -380,12 +375,12 @@
                 <vendor>occaecat</vendor>
                 <model>dolore et duis incididunt ea</model>
                 <description>Minim fugiat aliqua minim. Id reprehenderit officia id laborum. Cupidatat veniam ipsum magna sint amet cillum mollit dolore anim nulla. Dolore officia commodo pariatur proident ea nostrud ex velit voluptate voluptate incididunt Lorem irure. Dolore commodo mollit consequat consequat do incididunt in exercitation enim.</description>
-                <picture>https://spideradio.github.io/test-yml/img/7.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/6.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/18.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/8.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/4.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/15.jpeg</picture>
+                <picture>https://spideradio.github.io/img/14.jpeg</picture>
+                <picture>https://spideradio.github.io/img/1.jpeg</picture>
+                <picture>https://spideradio.github.io/img/14.jpeg</picture>
+                <picture>https://spideradio.github.io/img/1.jpeg</picture>
+                <picture>https://spideradio.github.io/img/11.jpeg</picture>
+                <picture>https://spideradio.github.io/img/14.jpeg</picture>
             </offer>
             <offer id="232" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=bfreee6</url>
@@ -395,11 +390,11 @@
                 <vendor>quis</vendor>
                 <model>qui anim aliqua velit commodo</model>
                 <description>Excepteur pariatur est amet eu. Anim tempor officia exercitation. Amet consectetur qui laboris officia veniam. Aliquip tempor nostrud ea tempor officia quis labore commodo cillum anim sint. Aute nulla deserunt sunt Lorem occaecat qui nostrud sit ex excepteur amet ipsum occaecat.</description>
-                <picture>https://spideradio.github.io/test-yml/img/17.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/15.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/16.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/11.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/14.jpeg</picture>
+                <picture>https://spideradio.github.io/img/17.jpeg</picture>
+                <picture>https://spideradio.github.io/img/9.jpeg</picture>
+                <picture>https://spideradio.github.io/img/4.jpeg</picture>
+                <picture>https://spideradio.github.io/img/2.jpeg</picture>
+                <picture>https://spideradio.github.io/img/18.jpeg</picture>
             </offer>
             <offer id="237" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=g1br9x5ke2v</url>
@@ -409,20 +404,18 @@
                 <vendor>esse ad</vendor>
                 <model>in nostrud esse sunt</model>
                 <description>Non nisi consequat sit incididunt cillum non. Laborum dolore laborum qui irure officia nisi adipisicing excepteur dolore cupidatat laboris. Consectetur ut pariatur veniam eu. Aute magna esse laborum officia do irure officia ea non labore anim tempor irure occaecat elit. In velit eu eu ex enim.</description>
-                <picture>https://spideradio.github.io/test-yml/img/6.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/12.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/12.jpeg</picture>
+                <picture>https://spideradio.github.io/img/4.jpeg</picture>
+                <picture>https://spideradio.github.io/img/8.jpeg</picture>
+                <picture>https://spideradio.github.io/img/4.jpeg</picture>
+                <picture>https://spideradio.github.io/img/15.jpeg</picture>
             </offer>
             <offer id="262" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=noqgux3wt</url>
                 <price>390</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>14</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/16.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/12.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/8.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/8.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/7.jpeg</picture>
+                <picture>https://spideradio.github.io/img/6.jpeg</picture>
+                <picture>https://spideradio.github.io/img/9.jpeg</picture>
                 <vendor>consequat et ex eu</vendor>
                 <model>cupidatat cupidatat esse</model>
                 <description>In proident sit nostrud dolore occaecat aliquip est do cillum elit cillum Lorem. Culpa pariatur sunt duis. Esse aute et cillum ipsum dolore anim in excepteur velit dolor aliquip anim. Minim dolor labore dolore.</description>
@@ -432,7 +425,12 @@
                 <price>1190</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>15</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/1.jpeg</picture>
+                <picture>https://spideradio.github.io/img/8.jpeg</picture>
+                <picture>https://spideradio.github.io/img/6.jpeg</picture>
+                <picture>https://spideradio.github.io/img/6.jpeg</picture>
+                <picture>https://spideradio.github.io/img/16.jpeg</picture>
+                <picture>https://spideradio.github.io/img/3.jpeg</picture>
+                <picture>https://spideradio.github.io/img/1.jpeg</picture>
                 <vendor>cillum</vendor>
                 <model>mollit minim</model>
                 <description>Reprehenderit enim fugiat quis ullamco reprehenderit ex laborum. Voluptate magna exercitation minim nisi proident duis do voluptate excepteur excepteur enim pariatur velit. Dolore veniam dolore ut. Adipisicing aute pariatur cupidatat magna consectetur ad incididunt amet qui duis quis ex nulla in. Eu cupidatat voluptate cupidatat tempor aliqua et nostrud consequat est dolor id labore.</description>
@@ -445,18 +443,15 @@
                 <vendor>labore irure</vendor>
                 <model>officia excepteur velit non</model>
                 <description>Aliquip in nostrud quis proident nisi aliqua adipisicing consectetur. Dolore non enim magna consequat excepteur sint cupidatat excepteur deserunt excepteur cupidatat eiusmod sunt. Deserunt amet dolor cillum ipsum fugiat duis ea cillum.</description>
-                <picture>https://spideradio.github.io/test-yml/img/3.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/9.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/10.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/3.jpeg</picture>
+                <picture>https://spideradio.github.io/img/14.jpeg</picture>
             </offer>
             <offer id="302" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=j18</url>
                 <price>799</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>15</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/14.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/10.jpeg</picture>
+                <picture>https://spideradio.github.io/img/10.jpeg</picture>
+                <picture>https://spideradio.github.io/img/14.jpeg</picture>
                 <vendor>occaecat fugiat</vendor>
                 <model>Lorem proident</model>
                 <description>Aliquip eu laborum do ullamco consectetur esse exercitation laborum consectetur in duis. Nostrud sit ex enim non anim occaecat exercitation. Duis veniam nisi deserunt ullamco ea voluptate occaecat sit ex sunt. Sunt aute exercitation ut aute eiusmod quis minim mollit ipsum sit. Magna irure qui adipisicing ex in. Ipsum eu pariatur esse elit pariatur duis laborum elit. Est mollit occaecat cupidatat sit tempor.</description>
@@ -469,17 +464,17 @@
                 <vendor>ex culpa proident</vendor>
                 <model>tempor sint</model>
                 <description>Voluptate labore pariatur do duis sunt ipsum id minim eiusmod fugiat in. Ex id mollit eu. Do in ipsum Lorem velit reprehenderit mollit excepteur.</description>
-                <picture>https://spideradio.github.io/test-yml/img/4.jpeg</picture>
+                <picture>https://spideradio.github.io/img/5.jpeg</picture>
+                <picture>https://spideradio.github.io/img/2.jpeg</picture>
+                <picture>https://spideradio.github.io/img/16.jpeg</picture>
             </offer>
             <offer id="312" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=pj</url>
                 <price>644</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>15</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/17.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/1.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/8.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/4.jpeg</picture>
+                <picture>https://spideradio.github.io/img/2.jpeg</picture>
+                <picture>https://spideradio.github.io/img/2.jpeg</picture>
                 <vendor>reprehenderit labore ad pariatur</vendor>
                 <model>ex reprehenderit eiusmod do eiusmod</model>
                 <description>Occaecat ex adipisicing enim dolore aliquip culpa laboris reprehenderit est. Deserunt nisi excepteur duis cupidatat irure fugiat velit pariatur ut magna magna commodo. Magna est proident aliqua mollit. Qui amet duis incididunt commodo consequat ipsum cupidatat occaecat culpa aliqua ipsum labore nisi officia cillum. Enim eu commodo tempor.</description>
@@ -492,7 +487,7 @@
                 <vendor>nisi</vendor>
                 <model>duis qui cupidatat occaecat deserunt</model>
                 <description>Cillum amet Lorem officia. Ut labore voluptate duis ad ipsum consequat excepteur. Do elit id ad quis ad consequat minim. Ipsum non tempor culpa sit consectetur irure quis. Adipisicing non elit anim dolore nulla exercitation officia. Nostrud minim esse excepteur. Pariatur est non aliqua ea occaecat.</description>
-                <picture>https://spideradio.github.io/test-yml/img/8.jpeg</picture>
+                <picture>https://spideradio.github.io/img/5.jpeg</picture>
             </offer>
             <offer id="213" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=dpgj</url>
@@ -502,19 +497,19 @@
                 <vendor>occaecat nostrud</vendor>
                 <model>elit ut ex</model>
                 <description>Irure occaecat consequat duis cillum ad. Ad proident Lorem voluptate commodo dolore ipsum adipisicing qui proident qui minim occaecat. Nisi dolore duis do commodo enim proident aute. Labore fugiat cillum commodo cillum labore magna.</description>
-                <picture>https://spideradio.github.io/test-yml/img/8.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/5.jpeg</picture>
+                <picture>https://spideradio.github.io/img/12.jpeg</picture>
+                <picture>https://spideradio.github.io/img/4.jpeg</picture>
+                <picture>https://spideradio.github.io/img/6.jpeg</picture>
+                <picture>https://spideradio.github.io/img/10.jpeg</picture>
+                <picture>https://spideradio.github.io/img/15.jpeg</picture>
             </offer>
             <offer id="214" type="vendor.model">
                 <url>http://t92636qr.beget.tech/index.php?route=product/search&amp;search=1qwg</url>
                 <price>899</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spideradio.github.io/test-yml/img/15.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/10.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/8.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/7.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/10.jpeg</picture>
+                <picture>https://spideradio.github.io/img/16.jpeg</picture>
+                <picture>https://spideradio.github.io/img/11.jpeg</picture>
                 <vendor>voluptate</vendor>
                 <model>ullamco in nisi occaecat est</model>
                 <description>Labore sint irure quis elit exercitation nulla nisi id proident veniam magna cillum eiusmod voluptate tempor. Aliqua non commodo fugiat reprehenderit ipsum adipisicing aliquip sit fugiat consequat laborum sint ex consequat do. Eiusmod cillum occaecat ipsum eu anim culpa voluptate ipsum excepteur incididunt.</description>
@@ -527,8 +522,9 @@
                 <vendor>reprehenderit</vendor>
                 <model>consequat sunt qui quis</model>
                 <description>Exercitation ullamco qui cillum exercitation nulla eiusmod aliquip aliqua ex. Ex et magna aliqua. Do officia est veniam pariatur minim velit. Labore non velit irure duis irure est adipisicing.</description>
-                <picture>https://spideradio.github.io/test-yml/img/18.jpeg</picture>
-                <picture>https://spideradio.github.io/test-yml/img/13.jpeg</picture>
+                <picture>https://spideradio.github.io/img/4.jpeg</picture>
+                <picture>https://spideradio.github.io/img/15.jpeg</picture>
+                <picture>https://spideradio.github.io/img/13.jpeg</picture>
             </offer>
         </offers>
     </shop>

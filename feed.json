@@ -8,7 +8,7 @@
     "_doctype": "yml_catalog SYSTEM \"shops.dtd\"",
     "yml_catalog": {
         "_attributes": {
-            "date": "2020-06-16 11:35"
+            "date": "2020-06-16 12:39"
         },
         "shop": {
             "name": {
@@ -184,26 +184,9 @@
                         "categoryId": {
                             "_text": "8"
                         },
-                        "picture": [
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/10.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/11.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/16.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/14.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/2.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/10.jpeg"
-                            }
-                        ],
+                        "picture": {
+                            "_text": "https://spideradio.github.io/img/12.jpeg"
+                        },
                         "vendor": {
                             "_text": "esse"
                         },
@@ -266,7 +249,18 @@
                         },
                         "description": {
                             "_text": "Enim irure labore officia proident cupidatat eu eiusmod. Adipisicing ea do duis in excepteur consequat. Eu ipsum laboris reprehenderit incididunt quis sit veniam incididunt esse non enim ex. Anim aliquip sunt cupidatat tempor dolore voluptate irure in culpa nulla. Enim mollit velit tempor qui dolor. Exercitation consequat elit quis excepteur fugiat. Velit ea reprehenderit dolor tempor irure ullamco est incididunt. Sunt irure sint eiusmod ipsum deserunt ad."
-                        }
+                        },
+                        "picture": [
+                            {
+                                "_text": "https://spideradio.github.io/img/13.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/9.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/17.jpeg"
+                            }
+                        ]
                     },
                     {
                         "_attributes": {
@@ -287,10 +281,13 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/3.jpeg"
+                                "_text": "https://spideradio.github.io/img/5.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/13.jpeg"
+                                "_text": "https://spideradio.github.io/img/5.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/8.jpeg"
                             }
                         ],
                         "vendor": {
@@ -322,13 +319,22 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/18.jpeg"
+                                "_text": "https://spideradio.github.io/img/9.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/8.jpeg"
+                                "_text": "https://spideradio.github.io/img/12.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/10.jpeg"
+                                "_text": "https://spideradio.github.io/img/14.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/5.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/2.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/13.jpeg"
                             }
                         ],
                         "vendor": {
@@ -366,7 +372,18 @@
                         },
                         "description": {
                             "_text": "Dolore eiusmod pariatur elit quis dolor occaecat. Nostrud consequat ut Lorem commodo laboris occaecat culpa quis consectetur ad sit sit duis. Lorem reprehenderit quis cupidatat qui commodo consequat consectetur magna qui minim et. Ad do tempor aute excepteur occaecat laboris fugiat incididunt laboris. Ut duis consectetur consequat. Sit ad cillum laboris magna reprehenderit qui qui sunt aute anim occaecat. Ex consectetur laborum irure cillum exercitation tempor id nostrud dolor tempor culpa consectetur eiusmod quis voluptate. Elit fugiat occaecat veniam fugiat occaecat sint qui officia magna elit ad."
-                        }
+                        },
+                        "picture": [
+                            {
+                                "_text": "https://spideradio.github.io/img/12.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/16.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/15.jpeg"
+                            }
+                        ]
                     },
                     {
                         "_attributes": {
@@ -396,19 +413,19 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/4.jpeg"
+                                "_text": "https://spideradio.github.io/img/13.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/12.jpeg"
+                                "_text": "https://spideradio.github.io/img/16.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/8.jpeg"
+                                "_text": "https://spideradio.github.io/img/5.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/3.jpeg"
+                                "_text": "https://spideradio.github.io/img/17.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/7.jpeg"
+                                "_text": "https://spideradio.github.io/img/4.jpeg"
                             }
                         ]
                     },
@@ -431,13 +448,10 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/18.jpeg"
+                                "_text": "https://spideradio.github.io/img/17.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/13.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/7.jpeg"
+                                "_text": "https://spideradio.github.io/img/13.jpeg"
                             }
                         ],
                         "vendor": {
@@ -475,7 +489,27 @@
                         },
                         "description": {
                             "_text": "Exercitation sunt esse ullamco amet mollit aute sit cillum adipisicing adipisicing pariatur proident ut qui. Consequat officia labore pariatur est ad magna quis."
-                        }
+                        },
+                        "picture": [
+                            {
+                                "_text": "https://spideradio.github.io/img/17.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/8.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/4.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/1.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/18.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/12.jpeg"
+                            }
+                        ]
                     },
                     {
                         "_attributes": {
@@ -494,17 +528,9 @@
                         "categoryId": {
                             "_text": "9"
                         },
-                        "picture": [
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/2.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/16.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/3.jpeg"
-                            }
-                        ],
+                        "picture": {
+                            "_text": "https://spideradio.github.io/img/16.jpeg"
+                        },
                         "vendor": {
                             "_text": "cillum laboris"
                         },
@@ -533,7 +559,7 @@
                             "_text": "9"
                         },
                         "picture": {
-                            "_text": "https://spideradio.github.io/test-yml/img/15.jpeg"
+                            "_text": "https://spideradio.github.io/img/3.jpeg"
                         },
                         "vendor": {
                             "_text": "id nostrud"
@@ -570,7 +596,27 @@
                         },
                         "description": {
                             "_text": "Minim ut laboris adipisicing id ex anim consectetur. Eiusmod laborum occaecat nostrud ex. Commodo laboris et anim ut tempor cillum nulla reprehenderit ipsum esse. Irure aute adipisicing ea velit velit elit excepteur cupidatat esse aliquip minim ut reprehenderit nostrud sit. Sint excepteur duis et occaecat in ut duis voluptate mollit proident. Cupidatat elit sint qui. Qui cillum non id incididunt nostrud commodo."
-                        }
+                        },
+                        "picture": [
+                            {
+                                "_text": "https://spideradio.github.io/img/10.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/8.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/8.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/2.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/4.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/4.jpeg"
+                            }
+                        ]
                     },
                     {
                         "_attributes": {
@@ -600,19 +646,10 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/2.jpeg"
+                                "_text": "https://spideradio.github.io/img/4.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/17.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/15.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/16.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/14.jpeg"
+                                "_text": "https://spideradio.github.io/img/15.jpeg"
                             }
                         ]
                     },
@@ -633,23 +670,6 @@
                         "categoryId": {
                             "_text": "9"
                         },
-                        "picture": [
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/8.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/8.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/6.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/15.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/2.jpeg"
-                            }
-                        ],
                         "vendor": {
                             "_text": "Lorem"
                         },
@@ -687,7 +707,7 @@
                             "_text": "Voluptate deserunt occaecat id tempor. Elit in consectetur cupidatat eiusmod ex occaecat anim aliquip sit id dolor adipisicing."
                         },
                         "picture": {
-                            "_text": "https://spideradio.github.io/test-yml/img/3.jpeg"
+                            "_text": "https://spideradio.github.io/img/14.jpeg"
                         }
                     },
                     {
@@ -709,10 +729,13 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/4.jpeg"
+                                "_text": "https://spideradio.github.io/img/2.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/10.jpeg"
+                                "_text": "https://spideradio.github.io/img/15.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/2.jpeg"
                             }
                         ],
                         "vendor": {
@@ -751,26 +774,9 @@
                         "description": {
                             "_text": "Labore adipisicing minim elit aliqua. Minim mollit consequat pariatur ad cillum aliquip occaecat. Magna laboris quis occaecat culpa. Velit non veniam incididunt laboris Lorem sint occaecat laboris sunt. Ea minim consequat magna sit exercitation velit tempor ut. Velit proident ea laborum. Id et ut eiusmod nulla est ipsum excepteur id do ad laborum nostrud quis eu."
                         },
-                        "picture": [
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/15.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/14.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/10.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/17.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/7.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/16.jpeg"
-                            }
-                        ]
+                        "picture": {
+                            "_text": "https://spideradio.github.io/img/13.jpeg"
+                        }
                     },
                     {
                         "_attributes": {
@@ -798,14 +804,9 @@
                         "description": {
                             "_text": "Pariatur elit ad ut esse nostrud nostrud veniam Lorem sint ad cillum non voluptate Lorem irure. Incididunt ea anim anim anim mollit enim aliqua. Lorem duis occaecat commodo enim voluptate laboris Lorem commodo aliqua id fugiat duis. Aliqua sit sunt eiusmod voluptate id proident tempor commodo voluptate laboris id officia nostrud id laborum. Ea id non commodo aliquip reprehenderit amet ullamco aute mollit dolore deserunt do esse ex nisi. Laboris elit qui et do cillum nisi tempor reprehenderit. Laboris commodo esse duis sunt aliqua est duis elit eiusmod qui culpa anim."
                         },
-                        "picture": [
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/12.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/10.jpeg"
-                            }
-                        ]
+                        "picture": {
+                            "_text": "https://spideradio.github.io/img/1.jpeg"
+                        }
                     },
                     {
                         "_attributes": {
@@ -833,9 +834,14 @@
                         "description": {
                             "_text": "Magna nisi quis elit id et duis dolor. Culpa dolore duis ullamco est eiusmod aute magna officia et ex officia eiusmod exercitation. Pariatur laboris velit mollit esse nostrud. Deserunt anim ut et excepteur laboris amet enim in qui qui minim. Eu ullamco aliquip amet laboris sint reprehenderit incididunt adipisicing sit Lorem minim cillum proident deserunt. Duis laboris officia veniam veniam eiusmod dolore elit aliquip est id aliqua qui. Quis aliqua consequat mollit officia est sunt est eiusmod velit magna qui nostrud."
                         },
-                        "picture": {
-                            "_text": "https://spideradio.github.io/test-yml/img/6.jpeg"
-                        }
+                        "picture": [
+                            {
+                                "_text": "https://spideradio.github.io/img/7.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/12.jpeg"
+                            }
+                        ]
                     },
                     {
                         "_attributes": {
@@ -854,17 +860,6 @@
                         "categoryId": {
                             "_text": "11"
                         },
-                        "picture": [
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/13.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/8.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/11.jpeg"
-                            }
-                        ],
                         "vendor": {
                             "_text": "amet ex deserunt proident"
                         },
@@ -903,13 +898,19 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/17.jpeg"
+                                "_text": "https://spideradio.github.io/img/15.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/5.jpeg"
+                                "_text": "https://spideradio.github.io/img/5.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/14.jpeg"
+                                "_text": "https://spideradio.github.io/img/4.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/10.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/1.jpeg"
                             }
                         ]
                     },
@@ -941,16 +942,19 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/12.jpeg"
+                                "_text": "https://spideradio.github.io/img/14.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/18.jpeg"
+                                "_text": "https://spideradio.github.io/img/6.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/16.jpeg"
+                                "_text": "https://spideradio.github.io/img/5.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/10.jpeg"
+                                "_text": "https://spideradio.github.io/img/17.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/3.jpeg"
                             }
                         ]
                     },
@@ -971,14 +975,6 @@
                         "categoryId": {
                             "_text": "11"
                         },
-                        "picture": [
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/17.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/5.jpeg"
-                            }
-                        ],
                         "vendor": {
                             "_text": "deserunt laboris fugiat amet"
                         },
@@ -1006,9 +1002,17 @@
                         "categoryId": {
                             "_text": "11"
                         },
-                        "picture": {
-                            "_text": "https://spideradio.github.io/test-yml/img/11.jpeg"
-                        },
+                        "picture": [
+                            {
+                                "_text": "https://spideradio.github.io/img/17.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/1.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/12.jpeg"
+                            }
+                        ],
                         "vendor": {
                             "_text": "aute ea fugiat eu"
                         },
@@ -1044,27 +1048,7 @@
                         },
                         "description": {
                             "_text": "Esse irure dolore proident nostrud officia anim laboris amet duis reprehenderit ut proident ullamco pariatur. Culpa duis fugiat ea deserunt ad ad veniam commodo. Esse id aute officia consequat occaecat excepteur in proident esse laborum. Dolor quis voluptate elit enim velit eu ad. Esse irure do non. Incididunt cillum anim enim officia irure commodo deserunt ipsum culpa do aute consectetur velit laboris. Laborum occaecat cupidatat Lorem nisi incididunt ipsum laboris occaecat velit do eiusmod."
-                        },
-                        "picture": [
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/15.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/3.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/16.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/7.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/7.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/9.jpeg"
-                            }
-                        ]
+                        }
                     },
                     {
                         "_attributes": {
@@ -1085,10 +1069,10 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/11.jpeg"
+                                "_text": "https://spideradio.github.io/img/13.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/15.jpeg"
+                                "_text": "https://spideradio.github.io/img/14.jpeg"
                             }
                         ],
                         "vendor": {
@@ -1120,19 +1104,22 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/2.jpeg"
+                                "_text": "https://spideradio.github.io/img/16.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/8.jpeg"
+                                "_text": "https://spideradio.github.io/img/6.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/9.jpeg"
+                                "_text": "https://spideradio.github.io/img/10.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/6.jpeg"
+                                "_text": "https://spideradio.github.io/img/13.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/4.jpeg"
+                                "_text": "https://spideradio.github.io/img/8.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/17.jpeg"
                             }
                         ],
                         "vendor": {
@@ -1162,17 +1149,9 @@
                         "categoryId": {
                             "_text": "6"
                         },
-                        "picture": [
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/2.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/2.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/8.jpeg"
-                            }
-                        ],
+                        "picture": {
+                            "_text": "https://spideradio.github.io/img/15.jpeg"
+                        },
                         "vendor": {
                             "_text": "est aliqua"
                         },
@@ -1211,16 +1190,16 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/13.jpeg"
+                                "_text": "https://spideradio.github.io/img/16.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/1.jpeg"
+                                "_text": "https://spideradio.github.io/img/14.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/8.jpeg"
+                                "_text": "https://spideradio.github.io/img/1.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/14.jpeg"
+                                "_text": "https://spideradio.github.io/img/5.jpeg"
                             }
                         ]
                     },
@@ -1252,22 +1231,22 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/7.jpeg"
+                                "_text": "https://spideradio.github.io/img/14.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/6.jpeg"
+                                "_text": "https://spideradio.github.io/img/1.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/18.jpeg"
+                                "_text": "https://spideradio.github.io/img/14.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/8.jpeg"
+                                "_text": "https://spideradio.github.io/img/1.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/4.jpeg"
+                                "_text": "https://spideradio.github.io/img/11.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/15.jpeg"
+                                "_text": "https://spideradio.github.io/img/14.jpeg"
                             }
                         ]
                     },
@@ -1299,19 +1278,19 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/17.jpeg"
+                                "_text": "https://spideradio.github.io/img/17.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/15.jpeg"
+                                "_text": "https://spideradio.github.io/img/9.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/16.jpeg"
+                                "_text": "https://spideradio.github.io/img/4.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/11.jpeg"
+                                "_text": "https://spideradio.github.io/img/2.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/14.jpeg"
+                                "_text": "https://spideradio.github.io/img/18.jpeg"
                             }
                         ]
                     },
@@ -1343,13 +1322,16 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/6.jpeg"
+                                "_text": "https://spideradio.github.io/img/4.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/12.jpeg"
+                                "_text": "https://spideradio.github.io/img/8.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/12.jpeg"
+                                "_text": "https://spideradio.github.io/img/4.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/15.jpeg"
                             }
                         ]
                     },
@@ -1372,19 +1354,10 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/16.jpeg"
+                                "_text": "https://spideradio.github.io/img/6.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/12.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/8.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/8.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/7.jpeg"
+                                "_text": "https://spideradio.github.io/img/9.jpeg"
                             }
                         ],
                         "vendor": {
@@ -1414,9 +1387,26 @@
                         "categoryId": {
                             "_text": "15"
                         },
-                        "picture": {
-                            "_text": "https://spideradio.github.io/test-yml/img/1.jpeg"
-                        },
+                        "picture": [
+                            {
+                                "_text": "https://spideradio.github.io/img/8.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/6.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/6.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/16.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/3.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/1.jpeg"
+                            }
+                        ],
                         "vendor": {
                             "_text": "cillum"
                         },
@@ -1453,20 +1443,9 @@
                         "description": {
                             "_text": "Aliquip in nostrud quis proident nisi aliqua adipisicing consectetur. Dolore non enim magna consequat excepteur sint cupidatat excepteur deserunt excepteur cupidatat eiusmod sunt. Deserunt amet dolor cillum ipsum fugiat duis ea cillum."
                         },
-                        "picture": [
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/3.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/9.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/10.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/3.jpeg"
-                            }
-                        ]
+                        "picture": {
+                            "_text": "https://spideradio.github.io/img/14.jpeg"
+                        }
                     },
                     {
                         "_attributes": {
@@ -1487,10 +1466,10 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/14.jpeg"
+                                "_text": "https://spideradio.github.io/img/10.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/10.jpeg"
+                                "_text": "https://spideradio.github.io/img/14.jpeg"
                             }
                         ],
                         "vendor": {
@@ -1529,9 +1508,17 @@
                         "description": {
                             "_text": "Voluptate labore pariatur do duis sunt ipsum id minim eiusmod fugiat in. Ex id mollit eu. Do in ipsum Lorem velit reprehenderit mollit excepteur."
                         },
-                        "picture": {
-                            "_text": "https://spideradio.github.io/test-yml/img/4.jpeg"
-                        }
+                        "picture": [
+                            {
+                                "_text": "https://spideradio.github.io/img/5.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/2.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/16.jpeg"
+                            }
+                        ]
                     },
                     {
                         "_attributes": {
@@ -1552,16 +1539,10 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/17.jpeg"
+                                "_text": "https://spideradio.github.io/img/2.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/1.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/8.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/4.jpeg"
+                                "_text": "https://spideradio.github.io/img/2.jpeg"
                             }
                         ],
                         "vendor": {
@@ -1601,7 +1582,7 @@
                             "_text": "Cillum amet Lorem officia. Ut labore voluptate duis ad ipsum consequat excepteur. Do elit id ad quis ad consequat minim. Ipsum non tempor culpa sit consectetur irure quis. Adipisicing non elit anim dolore nulla exercitation officia. Nostrud minim esse excepteur. Pariatur est non aliqua ea occaecat."
                         },
                         "picture": {
-                            "_text": "https://spideradio.github.io/test-yml/img/8.jpeg"
+                            "_text": "https://spideradio.github.io/img/5.jpeg"
                         }
                     },
                     {
@@ -1632,10 +1613,19 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/8.jpeg"
+                                "_text": "https://spideradio.github.io/img/12.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/5.jpeg"
+                                "_text": "https://spideradio.github.io/img/4.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/6.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/10.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/15.jpeg"
                             }
                         ]
                     },
@@ -1658,19 +1648,10 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/15.jpeg"
+                                "_text": "https://spideradio.github.io/img/16.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/10.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/8.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/7.jpeg"
-                            },
-                            {
-                                "_text": "https://spideradio.github.io/test-yml/img/10.jpeg"
+                                "_text": "https://spideradio.github.io/img/11.jpeg"
                             }
                         ],
                         "vendor": {
@@ -1711,10 +1692,13 @@
                         },
                         "picture": [
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/18.jpeg"
+                                "_text": "https://spideradio.github.io/img/4.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/test-yml/img/13.jpeg"
+                                "_text": "https://spideradio.github.io/img/15.jpeg"
+                            },
+                            {
+                                "_text": "https://spideradio.github.io/img/13.jpeg"
                             }
                         ]
                     }

@@ -23,7 +23,7 @@ updateJsonFeed(feed => {
 
     offers.forEach(offer => {
         const picture = new Array(getRandomInt(0, 5))
-            .fill(wrapValue(`https://spideradio.github.io/test-yml/img/`))
+            .fill(wrapValue(`https://spideradio.github.io/img/`))
             .map(value => wrapValue(value._text + `${getRandomInt(1, 17)}.jpeg`));
 
         if (picture.length) {
