@@ -8,7 +8,7 @@
     "_doctype": "yml_catalog SYSTEM \"shops.dtd\"",
     "yml_catalog": {
         "_attributes": {
-            "date": "2020-06-16 12:52"
+            "date": "2020-06-17 16:15"
         },
         "shop": {
             "name": {
@@ -217,6 +217,7 @@
                         "vendor": {
                             "_text": "est elit"
                         },
+                        "picture": {},
                         "model": {
                             "_text": "irure non"
                         },
@@ -504,7 +505,7 @@
                                 "_text": "https://spideradio.github.io/img/1.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/img/18.jpeg"
+                                "_text": "https://spideradio.github.io/img/15.jpeg"
                             },
                             {
                                 "_text": "https://spideradio.github.io/img/12.jpeg"
@@ -1290,7 +1291,7 @@
                                 "_text": "https://spideradio.github.io/img/2.jpeg"
                             },
                             {
-                                "_text": "https://spideradio.github.io/img/18.jpeg"
+                                "_text": "https://spideradio.github.io/img/17.jpeg"
                             }
                         ]
                     },

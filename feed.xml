@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2020-06-16 12:52">
+<yml_catalog date="2020-06-17 16:15">
     <shop>
         <name>TAP testing store</name>
         <company>TAP testing store</company>
@@ -49,6 +49,7 @@
                 <currencyId>RUR</currencyId>
                 <categoryId>8</categoryId>
                 <vendor>est elit</vendor>
+                <picture/>
                 <model>irure non</model>
                 <description>Do ea exercitation mollit Lorem velit ullamco cupidatat excepteur est. Sunt eu Lorem voluptate consectetur irure magna enim nulla. Eu eu et laborum nostrud labore ex enim.</description>
             </offer>
@@ -140,7 +141,7 @@
                 <picture>https://spideradio.github.io/img/8.jpeg</picture>
                 <picture>https://spideradio.github.io/img/4.jpeg</picture>
                 <picture>https://spideradio.github.io/img/1.jpeg</picture>
-                <picture>https://spideradio.github.io/img/18.jpeg</picture>
+                <picture>https://spideradio.github.io/img/15.jpeg</picture>
                 <picture>https://spideradio.github.io/img/12.jpeg</picture>
             </offer>
             <offer id="127" type="vendor.model">
@@ -394,7 +395,7 @@
                 <picture>https://spideradio.github.io/img/9.jpeg</picture>
                 <picture>https://spideradio.github.io/img/4.jpeg</picture>
                 <picture>https://spideradio.github.io/img/2.jpeg</picture>
-                <picture>https://spideradio.github.io/img/18.jpeg</picture>
+                <picture>https://spideradio.github.io/img/17.jpeg</picture>
             </offer>
             <offer id="237" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=1eflxw5</url>
