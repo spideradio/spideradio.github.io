@@ -4,9 +4,51 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="yandex-verification" content="ca05714c95e9a0d1" />
+    <style>
+        .promo {
+            display: flex;
+        }
+
+        .promo__item {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .promo__img {
+            width: 200px;
+        }
+    </style>
     <title>spideradio</title>
 </head>
 <body>
     <a href="./feed.xml" class="href">feed</a>
+    <hr>
+
+    <div class="promo">
+        <div class="promo__item">
+            <a href="https://google.com/search?q=promo1" class="promo__link">promo link 1</a>
+            <span class="promo__text">promo 1 text</span>
+            <img src="./img/promo1.jpeg" alt="promo1" class="promo__img">
+        </div>
+
+        <div class="promo__item">
+            <a href="https://google.com/search?q=promo2" class="promo__link">promo link 2</a>
+            <span class="promo__text">promo 2 text</span>
+            <img src="./img/promo2.jpeg" alt="promo2" class="promo__img">
+        </div>
+
+        <div class="promo__item">
+            <a href="https://google.com/search?q=promo3" class="promo__link">promo link 3</a>
+            <span class="promo__text">promo 3 text</span>
+            <img src="./img/promo3.jpeg" alt="promo3" class="promo__img">
+        </div>
+
+        <div class="promo__item">
+            <a href="https://google.com/search?q=promo4" class="promo__link">promo link 4</a>
+            <span class="promo__text">promo 4 text</span>
+            <img src="./img/promo4.jpeg" alt="promo4" class="promo__img">
+        </div>
+    </div>
+    <hr>
 </body>
 </html>
