@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2020-06-17 16:15">
+<yml_catalog date="2020-06-18 10:44">
     <shop>
         <name>TAP testing store</name>
         <company>TAP testing store</company>
@@ -49,7 +49,7 @@
                 <currencyId>RUR</currencyId>
                 <categoryId>8</categoryId>
                 <vendor>est elit</vendor>
-                <picture/>
+                <picture>https://spideradio.github.io/img/9.jpeg</picture>
                 <model>irure non</model>
                 <description>Do ea exercitation mollit Lorem velit ullamco cupidatat excepteur est. Sunt eu Lorem voluptate consectetur irure magna enim nulla. Eu eu et laborum nostrud labore ex enim.</description>
             </offer>
@@ -257,6 +257,7 @@
                 <price>2330</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>11</categoryId>
+                <picture>https://spideradio.github.io/img/1.jpeg</picture>
                 <vendor>amet ex deserunt proident</vendor>
                 <model>anim pariatur sunt non</model>
                 <description>Pariatur sunt culpa ea incididunt ea exercitation Lorem laborum incididunt. Sit voluptate nostrud fugiat exercitation amet consectetur culpa labore enim sit do adipisicing ea qui.</description>
@@ -294,6 +295,7 @@
                 <price>2570</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>11</categoryId>
+                <picture>https://spideradio.github.io/img/3.jpeg</picture>
                 <vendor>deserunt laboris fugiat amet</vendor>
                 <model>aliquip anim mollit velit</model>
                 <description>Ea ullamco aliqua laborum commodo eu. Proident tempor occaecat deserunt id sint ipsum. Dolor sit do magna consectetur. Ullamco laboris aute est.</description>
@@ -313,8 +315,10 @@
             <offer id="202" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=2lum7hf3</url>
                 <price>2699</price>
+                <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>11</categoryId>
+                <picture>https://spideradio.github.io/img/6.jpeg</picture>
                 <vendor>reprehenderit sit labore</vendor>
                 <model>nulla nisi anim voluptate duis</model>
                 <description>Esse irure dolore proident nostrud officia anim laboris amet duis reprehenderit ut proident ullamco pariatur. Culpa duis fugiat ea deserunt ad ad veniam commodo. Esse id aute officia consequat occaecat excepteur in proident esse laborum. Dolor quis voluptate elit enim velit eu ad. Esse irure do non. Incididunt cillum anim enim officia irure commodo deserunt ipsum culpa do aute consectetur velit laboris. Laborum occaecat cupidatat Lorem nisi incididunt ipsum laboris occaecat velit do eiusmod.</description>
@@ -322,6 +326,7 @@
             <offer id="207" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=0q</url>
                 <price>1199</price>
+                <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
                 <picture>https://spideradio.github.io/img/13.jpeg</picture>
@@ -348,6 +353,7 @@
             <offer id="217" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=ok8w9</url>
                 <price>1999</price>
+                <oldprice>2400</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>6</categoryId>
                 <picture>https://spideradio.github.io/img/15.jpeg</picture>
@@ -358,6 +364,7 @@
             <offer id="222" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=806kb675j1h</url>
                 <price>2999</price>
+                <oldprice>3000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>5</categoryId>
                 <vendor>ex consectetur consequat excepteur</vendor>

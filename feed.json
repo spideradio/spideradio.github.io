@@ -8,7 +8,7 @@
     "_doctype": "yml_catalog SYSTEM \"shops.dtd\"",
     "yml_catalog": {
         "_attributes": {
-            "date": "2020-06-17 16:15"
+            "date": "2020-06-18 10:44"
         },
         "shop": {
             "name": {
@@ -217,7 +217,9 @@
                         "vendor": {
                             "_text": "est elit"
                         },
-                        "picture": {},
+                        "picture": {
+                            "_text": "https://spideradio.github.io/img/9.jpeg"
+                        },
                         "model": {
                             "_text": "irure non"
                         },
@@ -861,6 +863,9 @@
                         "categoryId": {
                             "_text": "11"
                         },
+                        "picture": {
+                            "_text": "https://spideradio.github.io/img/1.jpeg"
+                        },
                         "vendor": {
                             "_text": "amet ex deserunt proident"
                         },
@@ -976,6 +981,9 @@
                         "categoryId": {
                             "_text": "11"
                         },
+                        "picture": {
+                            "_text": "https://spideradio.github.io/img/3.jpeg"
+                        },
                         "vendor": {
                             "_text": "deserunt laboris fugiat amet"
                         },
@@ -1035,11 +1043,17 @@
                         "price": {
                             "_text": "2699"
                         },
+                        "oldprice": {
+                            "_text": "10000"
+                        },
                         "currencyId": {
                             "_text": "RUR"
                         },
                         "categoryId": {
                             "_text": "11"
+                        },
+                        "picture": {
+                            "_text": "https://spideradio.github.io/img/6.jpeg"
                         },
                         "vendor": {
                             "_text": "reprehenderit sit labore"
@@ -1061,6 +1075,9 @@
                         },
                         "price": {
                             "_text": "1199"
+                        },
+                        "oldprice": {
+                            "_text": "10000"
                         },
                         "currencyId": {
                             "_text": "RUR"
@@ -1144,6 +1161,9 @@
                         "price": {
                             "_text": "1999"
                         },
+                        "oldprice": {
+                            "_text": "2400"
+                        },
                         "currencyId": {
                             "_text": "RUR"
                         },
@@ -1173,6 +1193,9 @@
                         },
                         "price": {
                             "_text": "2999"
+                        },
+                        "oldprice": {
+                            "_text": "3000"
                         },
                         "currencyId": {
                             "_text": "RUR"
