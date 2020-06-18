@@ -1,5 +1,5 @@
 # Тестовый магазин для запуска hermione-тестов
-Урл магазина // todo
+[Ссылка на магазин](https://yandex.ru/turbo?text=spideradio.github.io%2Fyandexturbocatalog%2F&morda=1&ecommerce_main_page_preview=1&page_type=main&exp_flags=turbo-app-any-ua%3D1)
 
 Для редактирования магазина нужно:
 1. Внести изменения в [feed.json](/feed.json) (руками или с помощью [updateJsonFeed](/tools/updateJsonFeed.js))
