@@ -8,7 +8,7 @@
     "_doctype": "yml_catalog SYSTEM \"shops.dtd\"",
     "yml_catalog": {
         "_attributes": {
-            "date": "2020-06-18 10:44"
+            "date": "2020-06-22 10:44"
         },
         "shop": {
             "name": {
@@ -822,6 +822,9 @@
                         "price": {
                             "_text": "849"
                         },
+                        "oldprice": {
+                            "_text": "10000"
+                        },
                         "currencyId": {
                             "_text": "RUR"
                         },
@@ -857,6 +860,9 @@
                         "price": {
                             "_text": "2330"
                         },
+                        "oldprice": {
+                            "_text": "10000"
+                        },
                         "currencyId": {
                             "_text": "RUR"
                         },
@@ -886,6 +892,9 @@
                         },
                         "price": {
                             "_text": "2499"
+                        },
+                        "oldprice": {
+                            "_text": "10000"
                         },
                         "currencyId": {
                             "_text": "RUR"
@@ -931,6 +940,9 @@
                         "price": {
                             "_text": "2530"
                         },
+                        "oldprice": {
+                            "_text": "10000"
+                        },
                         "currencyId": {
                             "_text": "RUR"
                         },
@@ -975,6 +987,9 @@
                         "price": {
                             "_text": "2570"
                         },
+                        "oldprice": {
+                            "_text": "10000"
+                        },
                         "currencyId": {
                             "_text": "RUR"
                         },
@@ -1004,6 +1019,9 @@
                         },
                         "price": {
                             "_text": "2630"
+                        },
+                        "oldprice": {
+                            "_text": "10000"
                         },
                         "currencyId": {
                             "_text": "RUR"
@@ -1285,6 +1303,9 @@
                         "price": {
                             "_text": "2499"
                         },
+                        "oldprice": {
+                            "_text": "5000"
+                        },
                         "currencyId": {
                             "_text": "RUR"
                         },
@@ -1329,6 +1350,9 @@
                         "price": {
                             "_text": "2799"
                         },
+                        "oldprice": {
+                            "_text": "5000"
+                        },
                         "currencyId": {
                             "_text": "RUR"
                         },
@@ -1370,6 +1394,9 @@
                         "price": {
                             "_text": "390"
                         },
+                        "oldprice": {
+                            "_text": "5000"
+                        },
                         "currencyId": {
                             "_text": "RUR"
                         },
@@ -1404,6 +1431,9 @@
                         },
                         "price": {
                             "_text": "1190"
+                        },
+                        "oldprice": {
+                            "_text": "5000"
                         },
                         "currencyId": {
                             "_text": "RUR"
@@ -1452,6 +1482,9 @@
                         "price": {
                             "_text": "730"
                         },
+                        "oldprice": {
+                            "_text": "5000"
+                        },
                         "currencyId": {
                             "_text": "RUR"
                         },
@@ -1481,6 +1514,9 @@
                         },
                         "price": {
                             "_text": "799"
+                        },
+                        "oldprice": {
+                            "_text": "5000"
                         },
                         "currencyId": {
                             "_text": "RUR"
@@ -1516,6 +1552,9 @@
                         },
                         "price": {
                             "_text": "750"
+                        },
+                        "oldprice": {
+                            "_text": "5000"
                         },
                         "currencyId": {
                             "_text": "RUR"

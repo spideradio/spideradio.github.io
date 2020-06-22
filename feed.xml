@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2020-06-18 10:44">
+<yml_catalog date="2020-06-22 10:44">
     <shop>
         <name>TAP testing store</name>
         <company>TAP testing store</company>
@@ -244,6 +244,7 @@
             <offer id="172" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=8t7herpitk</url>
                 <price>849</price>
+                <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>10</categoryId>
                 <vendor>labore ullamco Lorem</vendor>
@@ -255,6 +256,7 @@
             <offer id="177" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=0enlceyaof</url>
                 <price>2330</price>
+                <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>11</categoryId>
                 <picture>https://spideradio.github.io/img/1.jpeg</picture>
@@ -265,6 +267,7 @@
             <offer id="182" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=fwj3pt</url>
                 <price>2499</price>
+                <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>11</categoryId>
                 <vendor>do</vendor>
@@ -279,6 +282,7 @@
             <offer id="187" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=d08m70qq</url>
                 <price>2530</price>
+                <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>11</categoryId>
                 <vendor>cillum proident do</vendor>
@@ -293,6 +297,7 @@
             <offer id="192" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=w76c1jt</url>
                 <price>2570</price>
+                <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>11</categoryId>
                 <picture>https://spideradio.github.io/img/3.jpeg</picture>
@@ -303,6 +308,7 @@
             <offer id="197" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=rp9z</url>
                 <price>2630</price>
+                <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>11</categoryId>
                 <picture>https://spideradio.github.io/img/17.jpeg</picture>
@@ -393,6 +399,7 @@
             <offer id="232" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=8efq</url>
                 <price>2499</price>
+                <oldprice>5000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>5</categoryId>
                 <vendor>quis</vendor>
@@ -407,6 +414,7 @@
             <offer id="237" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=1eflxw5</url>
                 <price>2799</price>
+                <oldprice>5000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>5</categoryId>
                 <vendor>esse ad</vendor>
@@ -420,6 +428,7 @@
             <offer id="262" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=4qyxlr</url>
                 <price>390</price>
+                <oldprice>5000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>14</categoryId>
                 <picture>https://spideradio.github.io/img/6.jpeg</picture>
@@ -431,6 +440,7 @@
             <offer id="292" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=fnu7e56jbff</url>
                 <price>1190</price>
+                <oldprice>5000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>15</categoryId>
                 <picture>https://spideradio.github.io/img/8.jpeg</picture>
@@ -446,6 +456,7 @@
             <offer id="297" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=i32iw6</url>
                 <price>730</price>
+                <oldprice>5000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>14</categoryId>
                 <vendor>labore irure</vendor>
@@ -456,6 +467,7 @@
             <offer id="302" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=3i0c2ewnus5</url>
                 <price>799</price>
+                <oldprice>5000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>15</categoryId>
                 <picture>https://spideradio.github.io/img/10.jpeg</picture>
@@ -467,6 +479,7 @@
             <offer id="307" type="vendor.model">
                 <url>https://spideradio.github.io?rnd=mo9g7s</url>
                 <price>750</price>
+                <oldprice>5000</oldprice>
                 <currencyId>RUR</currencyId>
                 <categoryId>14</categoryId>
                 <vendor>ex culpa proident</vendor>
