@@ -31,6 +31,52 @@
             <category id="14" parentId="13">Ремни Женские</category>
             <category id="15" parentId="13">Ремни Мужские</category>
         </categories>
+        <promos>
+            <promo id="promo1" type="promo code">
+                <start-date>2020-09-24 09:00:00</start-date>
+                <end-date>2020-12-15 22:00:00</end-date>
+                <description>Первый промокод</description>
+                <url>https://spideradio.github.io/</url>
+                <promo-code>HWCOPTNOQ</promo-code>
+                <discount unit="currency" currency="RUR">600</discount>
+                <purchase>
+                    <product offer-id="107"/>
+                </purchase>
+            </promo>
+            <promo id="promo2" type="promo code">
+                <start-date>2020-09-24 09:00:00</start-date>
+                <end-date>2020-12-15 22:00:00</end-date>
+                <description>Второй промокод</description>
+                <url>https://spideradio.github.io/</url>
+                <promo-code>JZBEPCOTF</promo-code>
+                <discount unit="percent">10</discount>
+                <purchase>
+                    <product offer-id="202"/>
+                </purchase>
+            </promo>
+            <promo id="promo3" type="promo code">
+                <start-date>2020-09-24 09:00:00</start-date>
+                <end-date>2020-12-15 22:00:00</end-date>
+                <description>Третий промокод</description>
+                <url>https://spideradio.github.io/</url>
+                <promo-code>PZNTCHWTF</promo-code>
+                <discount unit="currency" currency="RUR">700</discount>
+                <purchase>
+                    <product category-id="5"/>
+                </purchase>
+            </promo>
+            <promo id="promo4" type="promo code">
+                <start-date>2020-09-24 09:00:00</start-date>
+                <end-date>2020-12-15 22:00:00</end-date>
+                <description>Четвёртый промокод</description>
+                <url>https://spideradio.github.io/</url>
+                <promo-code>OXBTFHSRO</promo-code>
+                <discount unit="percent">15</discount>
+                <purchase>
+                    <product category-id="3"/>
+                </purchase>
+            </promo>
+        </promos>
         <enable_auto_discounts>true</enable_auto_discounts>
         <offers>
             <offer id="42" type="vendor.model">
