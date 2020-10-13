@@ -593,6 +593,37 @@
                 <picture>https://spideradio.github.io/img/15.jpeg</picture>
                 <picture>https://spideradio.github.io/img/13.jpeg</picture>
             </offer>
+
+            <offer group_id="5125" id="5133">
+                <param name="Сиденье">Стандартный</param>
+                <param name="Цвет стула">Вишня</param>
+                <param name="Цвет каркаса">Красный</param>
+                <name>Соображения высшего порядка</name>
+                <description>Значимость этих проблем настолько очевидна, что курс на социально-ориентированный национальный проект требует от нас анализа дальнейших направлений развитая системы массового участия? Задача организации, в особенности же дальнейшее развитие различных форм деятельности создаёт предпосылки качественно новых шагов для модели развития? Не следует, однако, забывать о том, что курс на социально-ориентированный национальный проект способствует подготовке и реализации существующих финансовых и административных условий?</description>
+                <picture>https://spideradio.github.io/img/18.jpeg</picture>
+                <picture>https://spideradio.github.io/img/19.jpeg</picture>
+                <picture>https://spideradio.github.io/img/20.jpeg</picture>
+                <url>https://spideradio.github.io?rnd=163lvba4r</url>
+                <price>2180</price>
+                <currencyId>RUR</currencyId>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <categoryId>9</categoryId>
+            </offer>
+            <offer group_id="5125" id="5134">
+                <param name="Сиденье">Не стандартный</param>
+                <param name="Цвет стула">Белый</param>
+                <param name="Цвет каркаса">Черный</param>
+                <name>Соображения высшего порядка</name>
+                <description>Значимость этих проблем настолько очевидна, что курс на социально-ориентированный национальный проект требует от нас анализа дальнейших направлений развитая системы массового участия? Задача организации, в особенности же дальнейшее развитие различных форм деятельности создаёт предпосылки качественно новых шагов для модели развития? Не следует, однако, забывать о том, что курс на социально-ориентированный национальный проект способствует подготовке и реализации существующих финансовых и административных условий?</description>
+                <picture>https://spideradio.github.io/img/18.jpeg</picture>
+                <picture>https://spideradio.github.io/img/19.jpeg</picture>
+                <picture>https://spideradio.github.io/img/20.jpeg</picture>
+                <url>https://spideradio.github.io?rnd=16blgb44r</url>
+                <price>2180</price>
+                <currencyId>RUR</currencyId>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <categoryId>9</categoryId>
+            </offer>
         </offers>
     </shop>
 </yml_catalog>
