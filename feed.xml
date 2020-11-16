@@ -34,7 +34,7 @@
         <promos>
             <promo id="promo1" type="promo code">
                 <start-date>2020-09-24 09:00:00</start-date>
-                <end-date>2020-12-15 22:00:00</end-date>
+                <end-date>2099-12-15 22:00:00</end-date>
                 <description>Первый промокод</description>
                 <url>https://spideradio.github.io/</url>
                 <promo-code>HWCOPTNOQ</promo-code>
