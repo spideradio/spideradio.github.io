@@ -45,7 +45,7 @@
             </promo>
             <promo id="promo2" type="promo code">
                 <start-date>2020-09-24 09:00:00</start-date>
-                <end-date>2020-12-15 22:00:00</end-date>
+                <end-date>2099-12-15 22:00:00</end-date>
                 <description>Второй промокод</description>
                 <url>https://spideradio.github.io/</url>
                 <promo-code>JZBEPCOTF</promo-code>
@@ -56,7 +56,7 @@
             </promo>
             <promo id="promo3" type="promo code">
                 <start-date>2020-09-24 09:00:00</start-date>
-                <end-date>2020-12-15 22:00:00</end-date>
+                <end-date>2099-12-15 22:00:00</end-date>
                 <description>Третий промокод</description>
                 <url>https://spideradio.github.io/</url>
                 <promo-code>PZNTCHWTF</promo-code>
@@ -67,7 +67,7 @@
             </promo>
             <promo id="promo4" type="promo code">
                 <start-date>2020-09-24 09:00:00</start-date>
-                <end-date>2020-12-15 22:00:00</end-date>
+                <end-date>2099-12-15 22:00:00</end-date>
                 <description>Четвёртый промокод</description>
                 <url>https://spideradio.github.io/</url>
                 <promo-code>OXBTFHSRO</promo-code>
