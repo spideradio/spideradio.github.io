@@ -1,0 +1,21 @@
+---
+title: Каталог
+layout: page
+permalink: catalog/index.html
+---
+{% import 'macros.njk' as macros %}
+
+<div class="row">
+    <h2 class="my-3">{{ title }}</h2>
+</div>
+
+<div class="row">
+    <div class="col-lg-3 mb-3">
+        {{ macros.categoriesList(shop.rootCategories) }}
+    </div>
+    <div class="col">
+        {% for offer in shop.offers %}
+            {{ macros.offerItem(offer) }}
+        {% endfor %}
+    </div>
+</div>

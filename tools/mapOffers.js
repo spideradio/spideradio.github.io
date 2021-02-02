@@ -32,7 +32,7 @@ updateJsonFeed(feed => {
         //     delete offer.picture;
         // }
 
-        offer.url = wrapValue(`https://spideradio.github.io?rnd=${getRandomString()}`);
+        offer.url = wrapValue(`https://spideradio.github.io/rnd/${getRandomString()}`);
 
         // offer.vendor = wrapValue(lorem.generateWords(getRandomInt(1, 3)));
         // offer.model = wrapValue(lorem.generateWords(getRandomInt(2, 4)));

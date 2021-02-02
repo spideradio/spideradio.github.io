@@ -1,0 +1,35 @@
+{% macro categoriesList(categories) %}
+<div class="list-group">
+    {% for category in categories %}
+        <a href="/catalog/{{ category.id }}" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+            {{ category.name }}
+            <span class="badge bg-primary rounded-pill">{{ category.offers | length }}</span>
+        </a>
+    {% endfor %}
+</div>
+{% endmacro %}
+
+{% macro offerItem(offer) %}
+<div class="row mb-3">
+    <div class="col-xs-4 col-sm-3">
+        {% if offer.pictures[0] %}
+            <a href="/rnd/{{ offer.id }}" class="d-block text-decoration-none">
+                <img src="{{ offer.pictures[0] }}" class="offer-img">
+            </a>
+        {% endif %}
+    </div>
+    <div class="col">
+        <a href="/rnd/{{ offer.id }}" class="d-block text-decoration-none link-dark">
+            <h3 class="mb-0">{{ offer.vendor }} {{ offer.model }}</h3>
+        </a>
+        <div class="my-1">
+            <span class="fs-5">{{ offer.priceFormatted }}</span>
+            {% if offer.oldPriceFormatted %}
+                <span class="text-decoration-line-through fs-6">{{ offer.oldPriceFormatted }}</span>
+            {% endif %}
+        </div>
+        <p class="text-muted mb-0">{{ offer.description | truncate }}<p>
+    </div>
+</div>
+<hr>
+{% endmacro %}

@@ -1,0 +1,53 @@
+---
+layout: page
+permalink: index.html
+---
+{% import 'macros.njk' as macros %}
+
+<div id="carouselControls" class="carousel slide mb-3 promo" data-bs-ride="carousel">
+    <ol class="carousel-indicators">
+        {% for item in shop.promo.items %}
+            <li data-bs-target="#carouselControls" data-bs-slide-to="{{ loop.index - 1 }}" class="{{ 'active' if loop.index === 1 else '' }}"></li>
+        {% endfor %}
+    </ol>
+    <div class="carousel-inner">
+        {% for item in shop.promo.items %}
+            <div class="carousel-item promo__item {{ 'active' if loop.index === 1 else '' }}">
+                <img src="{{ item.img }}" class="d-block w-100 promo__img" alt="{{ item.txt }}">
+                <div class="carousel-caption d-none d-md-block">
+                    <a href="{{ item.href }}" class="text-decoration-none text-white promo__link">
+                        <span class="promo__text">
+                            {{ item.txt }}
+                        </span>
+                    </a>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+    <a class="carousel-control-prev" href="#carouselControls" role="button" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Назад</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselControls" role="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Вперед</span>
+    </a>
+</div>
+
+<div class="row mb-3">
+    <div class="col">
+        {{ macros.categoriesList(shop.rootCategories) }}
+    </div>
+</div>
+
+<div class="row">
+    <h4>Скидки</h4>
+</div>
+
+<div class="row mb-5">
+    <div class="col">
+        {% for offer in shop.discounts %}
+            {{ macros.offerItem(offer) }}
+        {% endfor %}
+    </div>
+</div>

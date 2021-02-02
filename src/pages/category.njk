@@ -1,0 +1,40 @@
+---
+layout: page
+pagination:
+  data: shop.categories
+  size: 1
+  alias: category
+permalink: catalog/{{ category.id }}/index.html
+eleventyComputed:
+  title: '{{ category.name }}'
+---
+{% import 'macros.njk' as macros %}
+
+<div class="row">
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/catalog">Каталог</a></li>
+            {% if category.parent %}
+                <li class="breadcrumb-item"><a href="/catalog/{{ category.parent.id }}">{{ category.parent.name }}</a></li>
+            {% endif %}
+            <li class="breadcrumb-item active">{{ category.name }}</li>
+        </ol>
+    </nav>
+</div>
+
+<div class="row">
+    <h2 class="my-3">{{ title }}</h2>
+</div>
+
+<div class="row">
+    {% if category.children | length %}
+        <div class="col-lg-3 mb-3">
+            {{ macros.categoriesList(category.children) }}
+        </div>
+    {% endif %}
+    <div class="col">
+        {% for offer in category.offers %}
+            {{ macros.offerItem(offer) }}
+        {% endfor %}
+    </div>
+</div>

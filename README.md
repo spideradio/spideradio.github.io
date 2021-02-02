@@ -1,17 +1,18 @@
 # Тестовый магазин для запуска hermione-тестов
-[Ссылка на магазин](https://yandex.ru/turbo?text=spideradio.github.io%2Fyandexturbocatalog%2F&morda=1&ecommerce_main_page_preview=1&page_type=main&exp_flags=turbo-app-any-ua%3D1)
+[Ссылка на магазин](https://spideradio.github.io/) |
+[Турбо](https://yandex.ru/turbo/spideradio.github.io/n/yandexturbocatalog/main/?morda=1&ecommerce_main_page_preview=1)
 
-Для редактирования магазина нужно:
-1. Внести изменения в [feed.json](/feed.json) (руками или с помощью [updateJsonFeed](/tools/updateJsonFeed.js))
-1. Сгенерировать `YML` фид
-1. Опубликовать полученный фид
+## Редактирование магазина:
+- Чтобы обновить `YML` фид и каталог в [магазине](https://spideradio.github.io/) нужно внести изменения в [feed.json](/feed.json)
+- Измененить название, основной цвет магазина можно в файле [shop.json](/shop.json)
+- В каталоге [src](/src) находятся изходные файлы для генерации статических страниц
 
-## Генерация YML фида из json
-После редактирования [feed.json](/feed.json) нужно запустить npm скрипт
+## Генерация статических страниц и YML фида
+После редактирования нужно запустить npm скрипт
 ```bash
-npm run build-feed
+npm run build
 ```
-который сгенерирует `YML` фид из json файла. Фид будет лежать в `./feed.xml`.
+который сгенерирует `HTML` страницы и `YML` фид из json файла. Результат будет лежать в папке [docs](/docs).
 
-## Публикация YML фида
-Закоммитить фид в мастер. Фид парсится примерно раз в два часа.
+## Публикация
+Закоммитить изменения в мастер. Фид парсится примерно раз в два часа.

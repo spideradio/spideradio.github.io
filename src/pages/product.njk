@@ -1,0 +1,51 @@
+---
+layout: page
+pagination:
+  data: shop.offers
+  size: 1
+  alias: offer
+permalink: rnd/{{ offer.id }}/index.html
+eleventyComputed:
+  title: '{{ offer.vendor }} {{ offer.model }}'
+---
+<div class="row">
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/catalog">Каталог</a></li>
+            {% if offer.category.parent %}
+                <li class="breadcrumb-item">
+                    <a href="/catalog/{{ offer.category.parent.id }}">
+                        {{ offer.category.parent.name }}
+                    </a>
+                </li>
+            {% endif %}
+            <li class="breadcrumb-item">
+                <a href="/catalog/{{ offer.category.id }}">
+                    {{ offer.category.name }}
+                </a>
+            </li>
+            <li class="breadcrumb-item active">{{ title }}</li>
+        </ol>
+    </nav>
+</div>
+
+<div class="row">
+    <h2 class="my-3">{{ title }}</h2>
+</div>
+
+<div class="row">
+    {% if offer.pictures[0] %}
+        <div class="col-lg-4 col-sm-6 mb-3">
+            <img src="{{ offer.pictures[0] }}" class="img-fluid">
+        </div>
+    {% endif %}
+    <div class="col">
+        <div class="mb-3">
+            <span class="badge bg-primary fs-4">{{ offer.priceFormatted }}</span>
+            {% if offer.oldPriceFormatted %}
+                <span class="badge bg-secondary text-decoration-line-through">{{ offer.oldPriceFormatted }}</span>
+            {% endif %}
+        </div>
+        <p>{{ offer.description }}</p>
+    </div>
+</div>
