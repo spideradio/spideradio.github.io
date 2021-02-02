@@ -1,0 +1,30 @@
+{
+    "name": "Spideradio",
+    "colors": {
+        "brand": "#b01616"
+    },
+    "promo": {
+        "items": [
+            {
+                "txt": "promo 1 text",
+                "href": "https://google.com/search?q=promo1",
+                "img": "/img/promo1.jpeg"
+            },
+            {
+                "txt": "promo 2 text",
+                "href": "https://google.com/search?q=promo2",
+                "img": "/img/promo2.jpeg"
+            },
+            {
+                "txt": "promo 3 text",
+                "href": "https://google.com/search?q=promo3",
+                "img": "/img/promo3.jpeg"
+            },
+            {
+                "txt": "promo 4 text",
+                "href": "https://google.com/search?q=promo4",
+                "img": "/img/promo4.jpeg"
+            }
+        ]
+    }
+}
