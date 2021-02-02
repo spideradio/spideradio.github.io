@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2020-06-22 10:44">
+<yml_catalog date="2021-02-02 12:09">
     <shop>
         <name>TAP testing store</name>
         <company>TAP testing store</company>
@@ -80,7 +80,7 @@
         <enable_auto_discounts>true</enable_auto_discounts>
         <offers>
             <offer id="42" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=u9bimfddvi</url>
+                <url>https://spideradio.github.io/rnd/u9bimfddvi</url>
                 <price>1999000</price>
                 <currencyId>BYN</currencyId>
                 <categoryId>8</categoryId>
@@ -90,7 +90,7 @@
                 <description>Sunt occaecat enim proident nostrud ad voluptate mollit excepteur dolore id pariatur irure id. Consequat qui ex ut nostrud officia. Voluptate deserunt est nostrud laboris excepteur cupidatat deserunt ut magna occaecat. Sit reprehenderit incididunt ipsum culpa. Officia incididunt magna amet amet exercitation. Nisi amet minim excepteur.</description>
             </offer>
             <offer id="62" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=h6xybklsmir</url>
+                <url>https://spideradio.github.io/rnd/h6xybklsmir</url>
                 <price>1899</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>8</categoryId>
@@ -100,7 +100,7 @@
                 <description>Do ea exercitation mollit Lorem velit ullamco cupidatat excepteur est. Sunt eu Lorem voluptate consectetur irure magna enim nulla. Eu eu et laborum nostrud labore ex enim.</description>
             </offer>
             <offer id="72" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=do4t</url>
+                <url>https://spideradio.github.io/rnd/do4t</url>
                 <price>15</price>
                 <currencyId>USD</currencyId>
                 <categoryId>8</categoryId>
@@ -112,7 +112,7 @@
                 <picture>https://spideradio.github.io/img/17.jpeg</picture>
             </offer>
             <offer id="92" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=tvowcsnngw</url>
+                <url>https://spideradio.github.io/rnd/tvowcsnngw</url>
                 <price>4999</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>7</categoryId>
@@ -124,7 +124,7 @@
                 <description>Amet cillum ea aute non laborum minim culpa culpa ex nisi aliqua qui. Incididunt fugiat ullamco ex. Excepteur velit sint sunt eu sit eu officia id nostrud magna nisi nostrud anim. Anim laborum reprehenderit ex pariatur eiusmod culpa et amet enim cupidatat mollit dolore reprehenderit veniam consectetur.</description>
             </offer>
             <offer id="97" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=qx6uh31p</url>
+                <url>https://spideradio.github.io/rnd/qx6uh31p</url>
                 <price>2999</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>7</categoryId>
@@ -139,7 +139,7 @@
                 <description>Nisi cillum id veniam amet deserunt non consectetur dolor ullamco excepteur proident esse ex. Nulla dolore culpa sit cupidatat eu quis velit quis ullamco adipisicing aliqua. Duis ex nisi veniam irure consequat dolore ad cillum. Proident do velit minim id sint.</description>
             </offer>
             <offer id="107" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=c7hj4fr</url>
+                <url>https://spideradio.github.io/rnd/c7hj4fr</url>
                 <price>3999</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>7</categoryId>
@@ -151,7 +151,7 @@
                 <picture>https://spideradio.github.io/img/15.jpeg</picture>
             </offer>
             <offer id="112" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=gi34s5rm6b</url>
+                <url>https://spideradio.github.io/rnd/gi34s5rm6b</url>
                 <price>1299</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>9</categoryId>
@@ -165,7 +165,7 @@
                 <picture>https://spideradio.github.io/img/4.jpeg</picture>
             </offer>
             <offer id="117" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=lt3f73rxw</url>
+                <url>https://spideradio.github.io/rnd/lt3f73rxw</url>
                 <price>1399</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>9</categoryId>
@@ -176,7 +176,7 @@
                 <description>Exercitation excepteur laboris cillum sint est cillum Lorem. Commodo esse culpa voluptate. Adipisicing esse do incididunt irure culpa consectetur excepteur. Reprehenderit ullamco esse consequat anim adipisicing quis et esse incididunt occaecat eiusmod cillum aliquip. Lorem anim eiusmod dolore irure laboris exercitation pariatur quis ad nostrud.</description>
             </offer>
             <offer id="122" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=5px9</url>
+                <url>https://spideradio.github.io/rnd/5px9</url>
                 <price>1099</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>9</categoryId>
@@ -191,7 +191,7 @@
                 <picture>https://spideradio.github.io/img/12.jpeg</picture>
             </offer>
             <offer id="127" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=jy7b4qqsed</url>
+                <url>https://spideradio.github.io/rnd/jy7b4qqsed</url>
                 <price>1199</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>9</categoryId>
@@ -201,7 +201,7 @@
                 <description>Cupidatat ipsum qui fugiat. Aute nostrud eu velit ad culpa ut sunt occaecat quis. Deserunt incididunt eu ullamco nisi magna enim nulla qui sit minim. Lorem id sunt eu ut adipisicing. Et deserunt anim mollit in nisi non pariatur amet Lorem incididunt excepteur non quis laborum. Dolor mollit ipsum id labore consequat magna ad amet elit.</description>
             </offer>
             <offer id="132" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=oqr9w</url>
+                <url>https://spideradio.github.io/rnd/oqr9w</url>
                 <price>1459</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>9</categoryId>
@@ -211,7 +211,7 @@
                 <description>Aliqua commodo ut sunt. Nisi minim nostrud ex elit veniam enim ut ipsum dolore. Pariatur esse sit deserunt voluptate irure sit mollit culpa nisi exercitation fugiat voluptate irure ipsum. Magna ea officia ut reprehenderit ut magna aute dolore. Ipsum fugiat officia officia. Cupidatat cillum id culpa eiusmod officia sit Lorem qui.</description>
             </offer>
             <offer id="137" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=tt9olx6gkk</url>
+                <url>https://spideradio.github.io/rnd/tt9olx6gkk</url>
                 <price>1499</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>9</categoryId>
@@ -226,7 +226,7 @@
                 <picture>https://spideradio.github.io/img/4.jpeg</picture>
             </offer>
             <offer id="142" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=dgwrc</url>
+                <url>https://spideradio.github.io/rnd/dgwrc</url>
                 <price>1199</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>9</categoryId>
@@ -237,7 +237,7 @@
                 <picture>https://spideradio.github.io/img/15.jpeg</picture>
             </offer>
             <offer id="147" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=9j2</url>
+                <url>https://spideradio.github.io/rnd/9j2</url>
                 <price>1559</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>9</categoryId>
@@ -246,7 +246,7 @@
                 <description>Excepteur anim velit minim proident dolore mollit do elit officia exercitation labore dolore consectetur. Duis laboris ex incididunt nostrud nulla nulla deserunt culpa eiusmod excepteur. Sit minim eiusmod duis et qui velit aliquip eu consectetur. Eu commodo esse id proident est commodo exercitation esse voluptate quis.</description>
             </offer>
             <offer id="152" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=z41l0pu</url>
+                <url>https://spideradio.github.io/rnd/z41l0pu</url>
                 <price>799</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>10</categoryId>
@@ -256,7 +256,7 @@
                 <picture>https://spideradio.github.io/img/14.jpeg</picture>
             </offer>
             <offer id="157" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=kqvqll2fvcg</url>
+                <url>https://spideradio.github.io/rnd/kqvqll2fvcg</url>
                 <price>749</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>10</categoryId>
@@ -268,7 +268,7 @@
                 <description>Minim esse id veniam anim quis id eu adipisicing aliquip duis. In mollit aliquip velit irure ullamco cupidatat consequat sint ullamco qui deserunt enim nisi. Do nisi minim non deserunt proident labore exercitation. Dolor ullamco tempor et nisi deserunt eiusmod consectetur officia nostrud. Fugiat sint et duis eiusmod in laboris officia tempor cillum nulla. Velit eu fugiat consequat ea anim. Nulla nisi sit ex consectetur commodo dolor non laborum enim deserunt. Esse et occaecat deserunt dolore minim dolore sunt excepteur ex nulla culpa duis irure consequat.</description>
             </offer>
             <offer id="162" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=9wv92i</url>
+                <url>https://spideradio.github.io/rnd/9wv92i</url>
                 <price>759</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>10</categoryId>
@@ -278,7 +278,7 @@
                 <picture>https://spideradio.github.io/img/13.jpeg</picture>
             </offer>
             <offer id="167" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=wskqp</url>
+                <url>https://spideradio.github.io/rnd/wskqp</url>
                 <price>779</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>10</categoryId>
@@ -288,7 +288,7 @@
                 <picture>https://spideradio.github.io/img/1.jpeg</picture>
             </offer>
             <offer id="172" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=8t7herpitk</url>
+                <url>https://spideradio.github.io/rnd/8t7herpitk</url>
                 <price>849</price>
                 <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -300,7 +300,7 @@
                 <picture>https://spideradio.github.io/img/12.jpeg</picture>
             </offer>
             <offer id="177" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=0enlceyaof</url>
+                <url>https://spideradio.github.io/rnd/0enlceyaof</url>
                 <price>2330</price>
                 <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -311,7 +311,7 @@
                 <description>Pariatur sunt culpa ea incididunt ea exercitation Lorem laborum incididunt. Sit voluptate nostrud fugiat exercitation amet consectetur culpa labore enim sit do adipisicing ea qui.</description>
             </offer>
             <offer id="182" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=fwj3pt</url>
+                <url>https://spideradio.github.io/rnd/fwj3pt</url>
                 <price>2499</price>
                 <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -326,7 +326,7 @@
                 <picture>https://spideradio.github.io/img/1.jpeg</picture>
             </offer>
             <offer id="187" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=d08m70qq</url>
+                <url>https://spideradio.github.io/rnd/d08m70qq</url>
                 <price>2530</price>
                 <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -341,7 +341,7 @@
                 <picture>https://spideradio.github.io/img/3.jpeg</picture>
             </offer>
             <offer id="192" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=w76c1jt</url>
+                <url>https://spideradio.github.io/rnd/w76c1jt</url>
                 <price>2570</price>
                 <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -352,7 +352,7 @@
                 <description>Ea ullamco aliqua laborum commodo eu. Proident tempor occaecat deserunt id sint ipsum. Dolor sit do magna consectetur. Ullamco laboris aute est.</description>
             </offer>
             <offer id="197" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=rp9z</url>
+                <url>https://spideradio.github.io/rnd/rp9z</url>
                 <price>2630</price>
                 <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -365,7 +365,7 @@
                 <description>Aliquip aliquip non aute. Lorem quis ex sint ea laborum Lorem sint non qui reprehenderit voluptate. Aliqua ullamco labore cillum fugiat dolore adipisicing est magna est consectetur. Elit duis ut sint. Occaecat pariatur sit nulla culpa magna excepteur ad ullamco anim labore dolore magna sunt. Deserunt ipsum enim in non. Ipsum ad tempor adipisicing cillum. Non elit sint nulla minim qui consectetur nostrud aliqua ea occaecat.</description>
             </offer>
             <offer id="202" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=2lum7hf3</url>
+                <url>https://spideradio.github.io/rnd/2lum7hf3</url>
                 <price>2699</price>
                 <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -376,7 +376,7 @@
                 <description>Esse irure dolore proident nostrud officia anim laboris amet duis reprehenderit ut proident ullamco pariatur. Culpa duis fugiat ea deserunt ad ad veniam commodo. Esse id aute officia consequat occaecat excepteur in proident esse laborum. Dolor quis voluptate elit enim velit eu ad. Esse irure do non. Incididunt cillum anim enim officia irure commodo deserunt ipsum culpa do aute consectetur velit laboris. Laborum occaecat cupidatat Lorem nisi incididunt ipsum laboris occaecat velit do eiusmod.</description>
             </offer>
             <offer id="207" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=0q</url>
+                <url>https://spideradio.github.io/rnd/0q</url>
                 <price>1199</price>
                 <oldprice>10000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -388,7 +388,7 @@
                 <description>Proident pariatur sint non. In reprehenderit sunt exercitation non. Lorem tempor ut veniam irure. Ullamco elit et excepteur magna. Minim consectetur qui et nostrud voluptate dolore eiusmod aliqua adipisicing. Lorem ad proident enim minim esse eiusmod qui nulla consectetur. Nulla cupidatat sit magna adipisicing.</description>
             </offer>
             <offer id="212" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=cu7r3two</url>
+                <url>https://spideradio.github.io/rnd/cu7r3two</url>
                 <price>18</price>
                 <currencyId>EUR</currencyId>
                 <categoryId>3</categoryId>
@@ -403,7 +403,7 @@
                 <description>Duis in labore pariatur sit eiusmod ullamco culpa dolore eiusmod occaecat sint enim eiusmod culpa. Adipisicing sit veniam anim irure velit ut nisi minim amet occaecat mollit. Excepteur pariatur anim sunt aliqua dolor exercitation anim adipisicing dolore ad amet. Ea fugiat sunt sit. Laborum mollit commodo dolor officia velit eu amet anim esse sunt esse ut proident reprehenderit magna. Id cupidatat excepteur anim ut.</description>
             </offer>
             <offer id="217" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=ok8w9</url>
+                <url>https://spideradio.github.io/rnd/ok8w9</url>
                 <price>1999</price>
                 <oldprice>2400</oldprice>
                 <currencyId>RUR</currencyId>
@@ -414,7 +414,7 @@
                 <description>Et dolor dolore fugiat minim elit aute sint Lorem ad proident amet culpa proident. Labore culpa sunt ex est amet veniam velit nostrud proident sunt et cillum ut consequat irure. Irure laboris et officia ex magna aliqua magna labore consectetur magna excepteur id dolore. Officia aute sunt occaecat nisi sit Lorem exercitation commodo consectetur.</description>
             </offer>
             <offer id="222" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=806kb675j1h</url>
+                <url>https://spideradio.github.io/rnd/806kb675j1h</url>
                 <price>2999</price>
                 <oldprice>3000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -428,7 +428,7 @@
                 <picture>https://spideradio.github.io/img/5.jpeg</picture>
             </offer>
             <offer id="227" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=34q0829</url>
+                <url>https://spideradio.github.io/rnd/34q0829</url>
                 <price>899</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>2</categoryId>
@@ -443,7 +443,7 @@
                 <picture>https://spideradio.github.io/img/14.jpeg</picture>
             </offer>
             <offer id="232" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=8efq</url>
+                <url>https://spideradio.github.io/rnd/8efq</url>
                 <price>2499</price>
                 <oldprice>5000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -458,7 +458,7 @@
                 <picture>https://spideradio.github.io/img/17.jpeg</picture>
             </offer>
             <offer id="237" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=1eflxw5</url>
+                <url>https://spideradio.github.io/rnd/1eflxw5</url>
                 <price>2799</price>
                 <oldprice>5000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -472,7 +472,7 @@
                 <picture>https://spideradio.github.io/img/15.jpeg</picture>
             </offer>
             <offer id="262" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=4qyxlr</url>
+                <url>https://spideradio.github.io/rnd/4qyxlr</url>
                 <price>390</price>
                 <oldprice>5000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -484,7 +484,7 @@
                 <description>In proident sit nostrud dolore occaecat aliquip est do cillum elit cillum Lorem. Culpa pariatur sunt duis. Esse aute et cillum ipsum dolore anim in excepteur velit dolor aliquip anim. Minim dolor labore dolore.</description>
             </offer>
             <offer id="292" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=fnu7e56jbff</url>
+                <url>https://spideradio.github.io/rnd/fnu7e56jbff</url>
                 <price>1190</price>
                 <oldprice>5000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -500,7 +500,7 @@
                 <description>Reprehenderit enim fugiat quis ullamco reprehenderit ex laborum. Voluptate magna exercitation minim nisi proident duis do voluptate excepteur excepteur enim pariatur velit. Dolore veniam dolore ut. Adipisicing aute pariatur cupidatat magna consectetur ad incididunt amet qui duis quis ex nulla in. Eu cupidatat voluptate cupidatat tempor aliqua et nostrud consequat est dolor id labore.</description>
             </offer>
             <offer id="297" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=i32iw6</url>
+                <url>https://spideradio.github.io/rnd/i32iw6</url>
                 <price>730</price>
                 <oldprice>5000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -511,7 +511,7 @@
                 <picture>https://spideradio.github.io/img/14.jpeg</picture>
             </offer>
             <offer id="302" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=3i0c2ewnus5</url>
+                <url>https://spideradio.github.io/rnd/3i0c2ewnus5</url>
                 <price>799</price>
                 <oldprice>5000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -523,7 +523,7 @@
                 <description>Aliquip eu laborum do ullamco consectetur esse exercitation laborum consectetur in duis. Nostrud sit ex enim non anim occaecat exercitation. Duis veniam nisi deserunt ullamco ea voluptate occaecat sit ex sunt. Sunt aute exercitation ut aute eiusmod quis minim mollit ipsum sit. Magna irure qui adipisicing ex in. Ipsum eu pariatur esse elit pariatur duis laborum elit. Est mollit occaecat cupidatat sit tempor.</description>
             </offer>
             <offer id="307" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=mo9g7s</url>
+                <url>https://spideradio.github.io/rnd/mo9g7s</url>
                 <price>750</price>
                 <oldprice>5000</oldprice>
                 <currencyId>RUR</currencyId>
@@ -536,7 +536,7 @@
                 <picture>https://spideradio.github.io/img/16.jpeg</picture>
             </offer>
             <offer id="312" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=q6c1nl</url>
+                <url>https://spideradio.github.io/rnd/q6c1nl</url>
                 <price>644</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>15</categoryId>
@@ -547,7 +547,7 @@
                 <description>Occaecat ex adipisicing enim dolore aliquip culpa laboris reprehenderit est. Deserunt nisi excepteur duis cupidatat irure fugiat velit pariatur ut magna magna commodo. Magna est proident aliqua mollit. Qui amet duis incididunt commodo consequat ipsum cupidatat occaecat culpa aliqua ipsum labore nisi officia cillum. Enim eu commodo tempor.</description>
             </offer>
             <offer id="73" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=1pbt</url>
+                <url>https://spideradio.github.io/rnd/1pbt</url>
                 <price>2199</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>8</categoryId>
@@ -557,7 +557,7 @@
                 <picture>https://spideradio.github.io/img/5.jpeg</picture>
             </offer>
             <offer id="213" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=6dvtksb</url>
+                <url>https://spideradio.github.io/rnd/6dvtksb</url>
                 <price>90</price>
                 <currencyId>UAH</currencyId>
                 <categoryId>3</categoryId>
@@ -571,7 +571,7 @@
                 <picture>https://spideradio.github.io/img/15.jpeg</picture>
             </offer>
             <offer id="214" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=0z7rkzp</url>
+                <url>https://spideradio.github.io/rnd/0z7rkzp</url>
                 <price>899</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
@@ -582,7 +582,7 @@
                 <description>Labore sint irure quis elit exercitation nulla nisi id proident veniam magna cillum eiusmod voluptate tempor. Aliqua non commodo fugiat reprehenderit ipsum adipisicing aliquip sit fugiat consequat laborum sint ex consequat do. Eiusmod cillum occaecat ipsum eu anim culpa voluptate ipsum excepteur incididunt.</description>
             </offer>
             <offer id="43" type="vendor.model">
-                <url>https://spideradio.github.io?rnd=06ql88a4r</url>
+                <url>https://spideradio.github.io/rnd/06ql88a4r</url>
                 <price>1999</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>8</categoryId>
@@ -593,7 +593,6 @@
                 <picture>https://spideradio.github.io/img/15.jpeg</picture>
                 <picture>https://spideradio.github.io/img/13.jpeg</picture>
             </offer>
-
             <offer group_id="5125" id="5133">
                 <param name="Сиденье">Стандартный</param>
                 <param name="Цвет стула">Вишня</param>
@@ -603,7 +602,7 @@
                 <picture>https://spideradio.github.io/img/18.jpeg</picture>
                 <picture>https://spideradio.github.io/img/19.jpeg</picture>
                 <picture>https://spideradio.github.io/img/20.jpeg</picture>
-                <url>https://spideradio.github.io?rnd=163lvba4r</url>
+                <url>https://spideradio.github.io/rnd/163lvba4r</url>
                 <price>2180</price>
                 <currencyId>RUR</currencyId>
                 <manufacturer_warranty>true</manufacturer_warranty>
@@ -618,7 +617,7 @@
                 <picture>https://spideradio.github.io/img/18.jpeg</picture>
                 <picture>https://spideradio.github.io/img/19.jpeg</picture>
                 <picture>https://spideradio.github.io/img/20.jpeg</picture>
-                <url>https://spideradio.github.io?rnd=16blgb44r</url>
+                <url>https://spideradio.github.io/rnd/16blgb44r</url>
                 <price>2180</price>
                 <currencyId>RUR</currencyId>
                 <manufacturer_warranty>true</manufacturer_warranty>
